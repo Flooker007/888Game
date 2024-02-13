@@ -11,12 +11,21 @@
 				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/BP_Gamemode.uasset",
 				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/BP_Desk.uasset",
 				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/BP_Ingredient.uasset",
-				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/Find_Ingredient.umap",
 				"D:/888Game/TopDown Project/TopDownProject/Content/UI/MainMenu.uasset",
 				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/MainMenu.umap",
-				"D:/888Game/TopDown Project/TopDownProject/Content/UI/fireRice.uasset",
 				"D:/888Game/TopDown Project/TopDownProject/Content/UI/MenuGameMode.uasset",
-				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/INgredient.umap"
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/INgredient.umap",
+				"D:/888Game/TopDown Project/TopDownProject/Content/UI/BG_Mainmenu.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/BP_Gate.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/UI/WB_Fade.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/Bread.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/Lettuce.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Blueprints/tomato.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/INgredien1t.umap",
+				"D:/888Game/TopDown Project/TopDownProject/Content/UI/fireRice.uasset",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/Untitled.umap",
+				"D:/888Game/TopDown Project/TopDownProject/Content/_Game/Map/Find_Ingredient.umap"
 			]
 		}
 	]
