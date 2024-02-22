@@ -37,7 +37,13 @@
 				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Sugar.uasset",
 				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Water.uasset",
 				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset",
-				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset"
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor.uasset",
+				"D:/888Game/Shopping_Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
+				"D:/888Game/Shopping_Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/09/RJVDEKW917RYR49U18E8RG.uasset",
+				"D:/888Game/Shopping_Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/53/ZWDCFQ9MTE9U2FKGAU6W2U.uasset",
+				"D:/888Game/Shopping_Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/C7/N16SAINLWQR28Y5SV6H1BT.uasset",
+				"D:/888Game/Shopping_Game/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/6X/4CIHNPFUP38WHAGV1FS7VY.uasset"
 			]
 		}
 	]
