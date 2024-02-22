@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/888Game/Shopping_Game/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/888Game/Shopping_Game/Content/TopDown/Input/IMC_Default.uasset",
+				"D:/888Game/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/888Game/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/InventoryButton.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/chili_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/fish_sauce_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/ginger_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Lemon_Grass_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Lemon_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/parsley_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/shallots_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Shrimp.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/straw_mushroom_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Sugar_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Water_Icon.uasset",
+				"D:/888Game/Shopping_Game/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset"
+			]
+		}
+	]
+}
