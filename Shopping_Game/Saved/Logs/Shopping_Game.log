@@ -3348,3 +3348,541 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.22-10.04.50:384][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 3.70 sec)
 [2024.02.22-10.04.50:385][953]AssetCheck: New page: Asset Save: S_Item
 [2024.02.22-10.04.50:385][953]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_Item.S_Item
+[2024.02.22-10.10.45:675][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.10.45:804][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/Structures/S_Item" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset" SILENT=true
+[2024.02.22-10.10.45:805][607]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Structures/S_Item
+[2024.02.22-10.10.45:806][607]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/S_Item9A1D27264B3E475386D11EB1D8CAB71E.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset'
+[2024.02.22-10.10.45:858][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 3.89 sec)
+[2024.02.22-10.10.45:859][607]AssetCheck: New page: Asset Save: S_Item
+[2024.02.22-10.10.45:859][607]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_Item.S_Item
+[2024.02.22-10.11.15:571][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.11.15:704][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/Structures/S_Item" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset" SILENT=true
+[2024.02.22-10.11.15:705][277]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Structures/S_Item
+[2024.02.22-10.11.15:706][277]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/S_Item3B6E257E44917FC085061CA805BB81FE.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset'
+[2024.02.22-10.11.15:757][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 4.07 sec)
+[2024.02.22-10.11.15:757][277]AssetCheck: New page: Asset Save: S_Item
+[2024.02.22-10.11.15:757][277]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_Item.S_Item
+[2024.02.22-10.11.25:612][662]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.22-10.11.25:625][662]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.22-10.11.25:639][663]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.22-10.11.30:147][934]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2024.02.22-10.11.30:147][934]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.22-10.11.35:220][164]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.22-10.11.35:236][164]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.22-10.11.35:267][166]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.22-10.11.44:260][706]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2024.02.22-10.11.44:260][706]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.22-10.11.53:734][924]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2024.02.22-10.11.53:745][924]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2024.02.22-10.11.53:777][926]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2024.02.22-10.12.07:751][765]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_ItemCategory
+[2024.02.22-10.12.07:756][765]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2024.02.22-10.12.10:410][886]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/InventorySystem/Blueprints/Enums/E_ItemCategory.E_ItemCategory
+[2024.02.22-10.13.06:187][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.13.06:318][ 64]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Enums/E_ItemCategory
+[2024.02.22-10.13.06:318][ 64]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/E_ItemCategory7A31BB844645061799B705B6BEAA9C07.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Enums/E_ItemCategory.uasset'
+[2024.02.22-10.13.06:370][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 4.25 sec)
+[2024.02.22-10.13.06:371][ 64]AssetCheck: New page: Asset Save: E_ItemCategory
+[2024.02.22-10.13.06:371][ 64]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/InventorySystem/Blueprints/Enums/E_ItemCategory.E_ItemCategory
+[2024.02.22-10.13.11:089][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.13.11:211][199]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Enums/E_ItemCategory
+[2024.02.22-10.13.11:211][199]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/E_ItemCategory7ABE1E0A42989131C87652A13AC0048A.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Enums/E_ItemCategory.uasset'
+[2024.02.22-10.13.11:267][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 4.43 sec)
+[2024.02.22-10.13.11:268][199]AssetCheck: New page: Asset Save: E_ItemCategory
+[2024.02.22-10.13.11:268][199]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/InventorySystem/Blueprints/Enums/E_ItemCategory.E_ItemCategory
+[2024.02.22-10.13.23:883][681]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.02.22-10.14.05:647][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.14.05:772][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/Structures/S_Item" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset" SILENT=true
+[2024.02.22-10.14.05:774][732]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Structures/S_Item
+[2024.02.22-10.14.05:775][732]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/S_Item4C2D54F94F5028F209235092E3FDE6CE.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset'
+[2024.02.22-10.14.05:829][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 4.61 sec)
+[2024.02.22-10.14.05:830][732]AssetCheck: New page: Asset Save: S_Item
+[2024.02.22-10.14.05:830][732]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_Item.S_Item
+[2024.02.22-10.14.16:482][126]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.22-10.14.16:498][126]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.22-10.14.16:513][127]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.22-10.14.28:417][766]LogContentBrowser: Attempting asset rename: NewFolder -> ItemClasses
+[2024.02.22-10.14.28:418][766]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.22-10.14.42:814][306]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.22-10.14.42:860][306]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.22-10.14.42:868][306]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.22-10.14.42:906][308]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.22-10.15.20:779][579]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MasterItem
+[2024.02.22-10.15.20:793][579]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.22-10.15.22:102][642]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.BP_MasterItem
+[2024.02.22-10.15.22:102][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.15.22:102][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.15.22:324][642]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.16.07:723][685]BlueprintLog: New page: Compile BP_MasterItem
+[2024.02.22-10.16.07:780][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.22-10.16.08:401][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.16.08:525][699]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem
+[2024.02.22-10.16.08:525][699]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_MasterItemE57AA9B846754E2AF09CB394B3A91A1B.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.uasset'
+[2024.02.22-10.16.08:576][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 4.79 sec)
+[2024.02.22-10.16.08:577][699]AssetCheck: New page: Asset Save: BP_MasterItem
+[2024.02.22-10.16.08:577][699]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.BP_MasterItem
+[2024.02.22-10.16.20:780][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.16.20:915][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="../../../../../../888Game/Shopping_Game/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.02.22-10.16.20:916][968]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.02.22-10.16.20:917][968]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/IMC_DefaultF397FA5749C23D843EACFE885B848B9F.tmp' to '../../../../../../888Game/Shopping_Game/Content/TopDown/Input/IMC_Default.uasset'
+[2024.02.22-10.16.20:970][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 4.98 sec)
+[2024.02.22-10.16.20:971][968]AssetCheck: New page: Asset Save: IMC_Default
+[2024.02.22-10.16.20:971][968]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.02.22-10.16.23:693][ 30]LogViewport: Scene viewport resized to 1150x778, mode Windowed.
+[2024.02.22-10.16.25:528][ 69]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.16.25:528][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.16.29:887][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.16.30:026][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_TopDownGameMode" FILE="../../../../../../888Game/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset" SILENT=true
+[2024.02.22-10.16.30:029][168]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2024.02.22-10.16.30:029][168]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_TopDownGameModeC75EA42642FECC0E8945038AE648B40F.tmp' to '../../../../../../888Game/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2024.02.22-10.16.30:081][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 5.17 sec)
+[2024.02.22-10.16.30:082][168]AssetCheck: New page: Asset Save: BP_TopDownGameMode
+[2024.02.22-10.16.30:082][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2024.02.22-10.16.31:982][214]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.22-10.16.31:982][214]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.16.31:982][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.16.59:382][815]BlueprintLog: New page: Compile BP_MasterItem
+[2024.02.22-10.16.59:433][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.22-10.17.00:155][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.17.00:284][830]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem
+[2024.02.22-10.17.00:284][830]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_MasterItem646925624CF805CCC49DEC80E88AAB38.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.uasset'
+[2024.02.22-10.17.00:336][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 5.35 sec)
+[2024.02.22-10.17.00:338][830]AssetCheck: New page: Asset Save: BP_MasterItem
+[2024.02.22-10.17.00:338][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.BP_MasterItem
+[2024.02.22-10.17.05:773][943]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.22-10.17.05:773][943]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.17.05:773][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.17.12:497][183]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.17.12:520][183]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.17.12:536][184]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.17.34:922][504]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Shrimp
+[2024.02.22-10.17.34:931][504]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.17.39:092][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp.Item_Shrimp
+[2024.02.22-10.17.39:092][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.17.39:092][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.17.39:290][639]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.18.23:919][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.22-10.18.23:924][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.022
+[2024.02.22-10.18.23:925][836]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp] ([2] browsable assets)...
+[2024.02.22-10.18.23:925][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp]
+[2024.02.22-10.18.23:929][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp_Auto4
+[2024.02.22-10.18.23:929][836]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Shrimp_Auto40FD78A7D43AB70DA24082BBCCAC1EB51.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp_Auto4.uasset'
+[2024.02.22-10.18.23:929][836]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.02.22-10.28.24:261][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.22-10.28.24:262][694]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2024.02.22-10.28.24:262][694]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp] ([2] browsable assets)...
+[2024.02.22-10.28.24:262][694]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp]
+[2024.02.22-10.28.24:266][694]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp_Auto5
+[2024.02.22-10.28.24:266][694]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Shrimp_Auto59E9033A04499E9B1E75FC0A1DC4702AD.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp_Auto5.uasset'
+[2024.02.22-10.28.24:267][694]LogFileHelpers: Auto-saving content packages took 0.005
+[2024.02.22-10.39.28:999][600]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.171 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9148 files in 11176 folders with total size 692 MiB.
+[2024.02.22-10.43.35:676][534]BlueprintLog: New page: Compile Item_Shrimp
+[2024.02.22-10.43.35:730][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.02.22-10.43.36:265][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.43.36:387][547]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp
+[2024.02.22-10.43.36:387][547]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_ShrimpB996E7FE49342DD77FFDCE93755564FA.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Shrimp.uasset'
+[2024.02.22-10.43.36:439][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 5.53 sec)
+[2024.02.22-10.43.36:440][547]AssetCheck: New page: Asset Save: Item_Shrimp
+[2024.02.22-10.43.36:441][547]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Shrimp.Item_Shrimp
+[2024.02.22-10.43.42:746][724]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.43.42:746][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.43.52:210][146]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.43.52:233][146]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.43.52:251][147]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.43.59:929][495]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> BP_MasterItem_Child
+[2024.02.22-10.43.59:937][495]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.44.36:064][949]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Chili
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.SKEL_Item_Chili_C:UserConstructionScript' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.SKEL_Item_Chili_C' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili_C' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:111][949]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/BP_MasterItem_Child.PackageMetaData'
+[2024.02.22-10.44.36:112][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.44.36:185][949]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili
+[2024.02.22-10.44.36:185][949]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Chili7C33BB134E8905D8C60E308E793263FD.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Chili.uasset'
+[2024.02.22-10.44.36:239][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 5.66 sec)
+[2024.02.22-10.44.36:266][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.22-10.44.36:289][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.02.22-10.44.36:307][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.22-10.44.36:309][949]AssetCheck: New page: Asset Save: Item_Chili
+[2024.02.22-10.44.36:309][949]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili
+[2024.02.22-10.44.45:722][358]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.44.45:740][358]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.44.45:755][359]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.44.51:914][713]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Water
+[2024.02.22-10.44.51:921][713]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.45.12:074][472]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.45.12:093][472]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.45.12:110][473]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.45.17:783][814]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Lemon
+[2024.02.22-10.45.17:790][814]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.45.20:291][882]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.45.20:309][882]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.45.20:325][883]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.45.26:433][250]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Sugar
+[2024.02.22-10.45.26:441][250]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.45.30:847][401]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.45.30:864][401]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.45.30:881][402]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.45.38:482][803]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_LemonGrass
+[2024.02.22-10.45.38:490][803]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.46.18:744][114]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.46.18:766][114]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.46.18:784][115]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.46.26:875][567]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Ginger
+[2024.02.22-10.46.26:882][567]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.46.49:734][233]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.46.49:753][233]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.46.49:767][234]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.46.56:038][414]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1690)].
+[2024.02.22-10.46.56:038][414]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Pars
+[2024.02.22-10.46.56:053][414]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.46.56:156][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.22-10.46.56:162][414]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.024
+[2024.02.22-10.46.56:163][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Water] ([2] browsable assets)...
+[2024.02.22-10.46.56:163][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Water]
+[2024.02.22-10.46.56:166][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Water_Auto6
+[2024.02.22-10.46.56:166][414]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Water_Auto60F6189454BD4FF275021738A2A5AC0D7.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Water_Auto6.uasset'
+[2024.02.22-10.46.56:167][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon] ([2] browsable assets)...
+[2024.02.22-10.46.56:167][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon]
+[2024.02.22-10.46.56:170][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon_Auto6
+[2024.02.22-10.46.56:170][414]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Lemon_Auto6B68318DA43C5E2C660DE378C18CD6D37.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon_Auto6.uasset'
+[2024.02.22-10.46.56:171][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar] ([2] browsable assets)...
+[2024.02.22-10.46.56:171][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar]
+[2024.02.22-10.46.56:175][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar_Auto6
+[2024.02.22-10.46.56:175][414]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Sugar_Auto63F5CEB3F4F7FABED2475248BCE26167D.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar_Auto6.uasset'
+[2024.02.22-10.46.56:175][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass] ([2] browsable assets)...
+[2024.02.22-10.46.56:175][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass]
+[2024.02.22-10.46.56:178][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass_Auto6
+[2024.02.22-10.46.56:178][414]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_LemonGrass_Auto6BB33235E4B743824769C2293BBD41F29.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass_Auto6.uasset'
+[2024.02.22-10.46.56:179][414]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger] ([2] browsable assets)...
+[2024.02.22-10.46.56:179][414]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger]
+[2024.02.22-10.46.56:183][414]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger_Auto6
+[2024.02.22-10.46.56:183][414]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Ginger_Auto60FB169EC493EA8993069E89AEA4D1147.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger_Auto6.uasset'
+[2024.02.22-10.46.56:183][414]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.02.22-10.47.05:734][837]LogContentBrowser: Attempting asset rename: Item_Pars -> Item_Parsley
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.SKEL_Item_Parsley_C:UserConstructionScript' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.SKEL_Item_Parsley_C' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley_C' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_CallParentFunction_0' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_Event_1' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_CallParentFunction_1' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_Event_2' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:766][837]LogMetaData: Removing '/Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley:EventGraph.K2Node_CallParentFunction_2' ref from Metadata '/Game/InventorySystem/Blueprints/ItemClasses/Item_Pars.PackageMetaData'
+[2024.02.22-10.47.05:767][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.47.05:837][837]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley
+[2024.02.22-10.47.05:837][837]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Parsley3377B2404E1A3B1EA1E5309CFE440241.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Parsley.uasset'
+[2024.02.22-10.47.05:888][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 5.78 sec)
+[2024.02.22-10.47.05:917][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.22-10.47.05:938][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.02.22-10.47.05:955][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.02.22-10.47.05:957][837]AssetCheck: New page: Asset Save: Item_Parsley
+[2024.02.22-10.47.05:957][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley
+[2024.02.22-10.47.15:515][176]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.47.15:536][176]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.47.15:552][177]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.47.31:792][110]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_FishSauce
+[2024.02.22-10.47.31:799][110]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.47.50:367][763]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.47.50:391][763]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.47.50:407][764]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.47.56:830][150]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_Shallots
+[2024.02.22-10.47.56:837][150]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.48.23:188][190]LogContentBrowser: Attempting asset rename: straw_mushroom_Icon -> straw_mushroom_Icon
+[2024.02.22-10.48.25:747][256]LogContentBrowser: Deferred new asset file creation: BP_MasterItem_Child
+[2024.02.22-10.48.25:766][256]LogContentBrowser: Creating deferred item: BP_MasterItem_Child
+[2024.02.22-10.48.25:781][257]LogContentBrowser: Renaming the item being created (Deferred Item: BP_MasterItem_Child).
+[2024.02.22-10.48.30:872][563]LogContentBrowser: Attempting asset rename: BP_MasterItem_Child -> Item_straw_mushroom
+[2024.02.22-10.48.30:879][563]LogContentBrowser: End creating deferred item BP_MasterItem_Child
+[2024.02.22-10.48.57:506][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.48.57:506][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.48.57:506][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.48.57:703][776]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.51.35:899][911]BlueprintLog: New page: Compile Item_Lemon
+[2024.02.22-10.51.35:952][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.22-10.51.36:859][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.51.36:985][933]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon
+[2024.02.22-10.51.36:985][933]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Lemon42CBA7D04155AEED9095BA9C4D4ECB12.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Lemon.uasset'
+[2024.02.22-10.51.37:037][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 5.96 sec)
+[2024.02.22-10.51.37:038][933]AssetCheck: New page: Asset Save: Item_Lemon
+[2024.02.22-10.51.37:038][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.51.42:306][ 59]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.51.42:306][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.51.45:658][199]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili
+[2024.02.22-10.51.45:659][199]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.51.45:659][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.51.45:860][199]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.52.30:098][362]BlueprintLog: New page: Compile Item_Chili
+[2024.02.22-10.52.30:151][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.02.22-10.52.30:622][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.52.30:759][372]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili
+[2024.02.22-10.52.30:759][372]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Chili4D185A554719BB0D22F3919493D2CEE7.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Chili.uasset'
+[2024.02.22-10.52.30:809][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 6.14 sec)
+[2024.02.22-10.52.30:811][372]AssetCheck: New page: Asset Save: Item_Chili
+[2024.02.22-10.52.30:811][372]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili
+[2024.02.22-10.52.34:429][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.52.34:429][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.52.34:429][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.52.35:857][547]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.52.35:857][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.52.40:052][641]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.22-10.52.40:052][641]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.52.40:052][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.52.43:459][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.Item_FishSauce
+[2024.02.22-10.52.43:459][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.52.43:459][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.52.43:663][783]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.53.23:605][889]BlueprintLog: New page: Compile Item_FishSauce
+[2024.02.22-10.53.23:659][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.22-10.53.24:199][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.53.24:327][900]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_FishSauce
+[2024.02.22-10.53.24:327][900]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_FishSauceF763DBCB4450F3768615659F305E5A3B.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.uasset'
+[2024.02.22-10.53.24:380][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 6.32 sec)
+[2024.02.22-10.53.24:380][900]AssetCheck: New page: Asset Save: Item_FishSauce
+[2024.02.22-10.53.24:380][900]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.Item_FishSauce
+[2024.02.22-10.53.26:822][956]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.53.26:822][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.53.29:230][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.Item_FishSauce
+[2024.02.22-10.53.29:231][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.53.29:231][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.53.30:990][ 99]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.53.30:990][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.53.31:043][ 99]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.Item_FishSauce
+[2024.02.22-10.53.31:043][ 99]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.53.31:043][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.53.33:559][167]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.53.36:431][237]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.53.36:431][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.53.39:514][353]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger.Item_Ginger
+[2024.02.22-10.53.39:515][353]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.53.39:515][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.53.39:714][353]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.54.08:053][ 32]BlueprintLog: New page: Compile Item_Ginger
+[2024.02.22-10.54.08:107][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.22-10.54.40:692][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.54.40:836][735]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger
+[2024.02.22-10.54.40:836][735]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_GingerBB0228B54D2C80D7720ACFB7DE0EAFD3.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Ginger.uasset'
+[2024.02.22-10.54.40:889][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 6.52 sec)
+[2024.02.22-10.54.40:890][735]AssetCheck: New page: Asset Save: Item_Ginger
+[2024.02.22-10.54.40:890][735]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Ginger.Item_Ginger
+[2024.02.22-10.54.42:029][765]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.54.42:029][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.54.50:662][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.54.50:662][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.54.50:663][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.54.51:730][ 52]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.54.51:730][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.54.51:784][ 52]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.54.51:784][ 52]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.54.51:784][ 52]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.54.56:396][159]BlueprintLog: New page: Compile Item_Lemon
+[2024.02.22-10.54.56:449][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.22-10.54.56:929][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.54.57:070][170]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon
+[2024.02.22-10.54.57:071][170]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_LemonCCCCFF974143FB4FACAF39925718EB1F.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Lemon.uasset'
+[2024.02.22-10.54.57:121][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 6.71 sec)
+[2024.02.22-10.54.57:123][170]AssetCheck: New page: Asset Save: Item_Lemon
+[2024.02.22-10.54.57:123][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Lemon.Item_Lemon
+[2024.02.22-10.54.58:610][211]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.54.58:610][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.55.01:046][309]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass.Item_LemonGrass
+[2024.02.22-10.55.01:046][309]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.55.01:046][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.55.01:243][309]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.55.38:892][198]BlueprintLog: New page: Compile Item_LemonGrass
+[2024.02.22-10.55.38:944][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.22-10.55.39:427][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.55.39:561][209]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass
+[2024.02.22-10.55.39:561][209]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_LemonGrass280A311F475EE39A8AA329AF33802CED.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass.uasset'
+[2024.02.22-10.55.39:612][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 6.90 sec)
+[2024.02.22-10.55.39:613][209]AssetCheck: New page: Asset Save: Item_LemonGrass
+[2024.02.22-10.55.39:613][209]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass.Item_LemonGrass
+[2024.02.22-10.55.41:272][250]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.55.41:273][250]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.55.44:227][370]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley
+[2024.02.22-10.55.44:228][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.55.44:228][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.55.44:425][370]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.56.06:153][949]BlueprintLog: New page: Compile Item_Parsley
+[2024.02.22-10.56.06:206][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.02.22-10.56.06:658][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.56.06:788][960]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley
+[2024.02.22-10.56.06:788][960]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Parsley19A7EE4E489C565B2FC41097132D4126.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Parsley.uasset'
+[2024.02.22-10.56.06:839][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 7.08 sec)
+[2024.02.22-10.56.06:840][960]AssetCheck: New page: Asset Save: Item_Parsley
+[2024.02.22-10.56.06:840][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Parsley.Item_Parsley
+[2024.02.22-10.56.08:129][991]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.56.08:129][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.56.11:544][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Shallots.Item_Shallots
+[2024.02.22-10.56.11:544][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.56.11:544][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.56.11:735][132]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.56.43:363][945]BlueprintLog: New page: Compile Item_Shallots
+[2024.02.22-10.56.43:415][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.22-10.56.44:060][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.56.44:188][960]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Shallots
+[2024.02.22-10.56.44:188][960]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Shallots7AFE34EA4F613451D2BD4FA8BBF05842.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Shallots.uasset'
+[2024.02.22-10.56.44:239][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 7.26 sec)
+[2024.02.22-10.56.44:240][960]AssetCheck: New page: Asset Save: Item_Shallots
+[2024.02.22-10.56.44:240][960]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Shallots.Item_Shallots
+[2024.02.22-10.56.46:341][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.56.46:474][ 16]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Shallots
+[2024.02.22-10.56.46:474][ 16]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Shallots0E49F9784811F60B2273D7A62CED12CF.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Shallots.uasset'
+[2024.02.22-10.56.46:526][ 16]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 7.44 sec)
+[2024.02.22-10.56.46:528][ 16]AssetCheck: New page: Asset Save: Item_Shallots
+[2024.02.22-10.56.46:528][ 16]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Shallots.Item_Shallots
+[2024.02.22-10.56.48:166][ 58]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.56.48:166][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.56.51:885][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_straw_mushroom.Item_straw_mushroom
+[2024.02.22-10.56.51:885][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.56.51:885][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.56.52:083][211]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.57.26:497][166]BlueprintLog: New page: Compile Item_straw_mushroom
+[2024.02.22-10.57.26:550][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.22-10.57.27:431][187]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.57.27:553][187]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_straw_mushroom
+[2024.02.22-10.57.27:553][187]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_straw_mushroom586557DA4CB31980C0D7A39DA2D9C9D0.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_straw_mushroom.uasset'
+[2024.02.22-10.57.27:603][187]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 7.61 sec)
+[2024.02.22-10.57.27:603][187]AssetCheck: New page: Asset Save: Item_straw_mushroom
+[2024.02.22-10.57.27:603][187]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_straw_mushroom.Item_straw_mushroom
+[2024.02.22-10.57.29:359][231]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.57.29:359][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-10.57.32:714][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar.Item_Sugar
+[2024.02.22-10.57.32:714][362]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.57.32:714][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.57.32:914][362]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.57.52:870][879]BlueprintLog: New page: Compile Item_Sugar
+[2024.02.22-10.57.52:923][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.22-10.57.53:579][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.57.53:712][895]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar
+[2024.02.22-10.57.53:712][895]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_SugarBCCDEA184F9DAF2F4FDE0F8D0A6E2708.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Sugar.uasset'
+[2024.02.22-10.57.53:761][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 7.79 sec)
+[2024.02.22-10.57.53:762][895]AssetCheck: New page: Asset Save: Item_Sugar
+[2024.02.22-10.57.53:762][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar.Item_Sugar
+[2024.02.22-10.57.57:628][ 46]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Water.Item_Water
+[2024.02.22-10.57.57:629][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-10.57.57:629][ 46]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-10.57.57:840][ 46]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-10.58.22:670][629]BlueprintLog: New page: Compile Item_Water
+[2024.02.22-10.58.22:722][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.02.22-10.58.23:271][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.58.23:399][642]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Water
+[2024.02.22-10.58.23:399][642]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_WaterE075EAF64D18B664BB6499831356B008.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Water.uasset'
+[2024.02.22-10.58.23:452][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 7.98 sec)
+[2024.02.22-10.58.23:453][642]AssetCheck: New page: Asset Save: Item_Water
+[2024.02.22-10.58.23:453][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Water.Item_Water
+[2024.02.22-10.59.09:328][826]BlueprintLog: New page: Compile Item_Water
+[2024.02.22-10.59.09:379][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.02.22-10.59.09:847][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-10.59.09:978][836]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Water
+[2024.02.22-10.59.09:978][836]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_Water10AFD17E4864FC2B3E1BFFA68B0EA6A6.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Water.uasset'
+[2024.02.22-10.59.10:027][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 8.16 sec)
+[2024.02.22-10.59.10:028][836]AssetCheck: New page: Asset Save: Item_Water
+[2024.02.22-10.59.10:028][836]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Water.Item_Water
+[2024.02.22-10.59.15:817][ 24]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-10.59.15:817][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-11.00.03:489][944]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2024.02.22-11.00.03:500][944]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2024.02.22-11.00.03:512][945]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2024.02.22-11.00.17:693][754]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> S_InventorySlot
+[2024.02.22-11.00.17:748][754]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2024.02.22-11.00.19:431][831]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_InventorySlot.S_InventorySlot
+[2024.02.22-11.03.33:982][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.03.34:114][384]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Structures/S_InventorySlot
+[2024.02.22-11.03.34:115][384]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/S_InventorySlot198A197349B625EA1EB41EB4F9C06380.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset'
+[2024.02.22-11.03.34:165][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 8.34 sec)
+[2024.02.22-11.03.34:166][384]AssetCheck: New page: Asset Save: S_InventorySlot
+[2024.02.22-11.03.34:166][384]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_InventorySlot.S_InventorySlot
+[2024.02.22-11.03.49:718][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.03.49:847][741]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/Structures/S_InventorySlot
+[2024.02.22-11.03.49:848][741]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/S_InventorySlot7ED5B91F41DC01FAF32FEDB7ACDD7194.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset'
+[2024.02.22-11.03.49:900][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 8.52 sec)
+[2024.02.22-11.03.49:900][741]AssetCheck: New page: Asset Save: S_InventorySlot
+[2024.02.22-11.03.49:900][741]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/InventorySystem/Blueprints/Structures/S_InventorySlot.S_InventorySlot
+[2024.02.22-11.03.54:267][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.03.54:402][845]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar
+[2024.02.22-11.03.54:402][845]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Item_SugarD1CF80324025065CB11384AB18E91984.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Sugar.uasset'
+[2024.02.22-11.03.54:449][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 8.70 sec)
+[2024.02.22-11.03.54:450][845]AssetCheck: New page: Asset Save: Item_Sugar
+[2024.02.22-11.03.54:450][845]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Sugar.Item_Sugar
+[2024.02.22-11.03.55:471][869]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.22-11.03.55:471][869]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-11.03.55:471][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-11.04.12:569][340]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.02.22-11.04.12:611][340]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.02.22-11.04.12:619][340]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.02.22-11.04.12:633][341]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.02.22-11.04.20:860][802]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Inventory
+[2024.02.22-11.04.20:869][802]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.02.22-11.04.40:567][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.04.40:568][460]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.22-11.04.40:568][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-11.04.40:764][460]LogViewport: Scene viewport resized to 894x778, mode Windowed.
+[2024.02.22-11.07.00:015][446]LogBlueprint: Warning: [AssetLog] /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory: [Compiler] Variable TopDownCharRef is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2024.02.22-11.07.26:698][149]LogBlueprint: Warning: [AssetLog] /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory: [Compiler] Variable AmountOfSlots is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2024.02.22-11.07.50:914][654]BlueprintLog: New page: Compile BP_Inventory
+[2024.02.22-11.07.50:969][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.22-11.07.51:621][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.07.51:746][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.07.51:749][671]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.07.51:749][671]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_InventoryC473722D4D7CFBD7C0FAED9CD41CDEB4.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.07.51:802][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 8.88 sec)
+[2024.02.22-11.07.51:802][671]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.07.51:802][671]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.07.52:339][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.07.52:467][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.07.52:470][683]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.07.52:471][683]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_InventoryD08F4437484FFB07BD3878831C385FBA.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.07.52:520][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 9.07 sec)
+[2024.02.22-11.07.52:521][683]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.07.52:521][683]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.07.52:708][688]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.07.52:834][688]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.07.52:837][688]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.07.52:838][688]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_InventoryF590DE414E5A360B6D248782EB83E429.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.07.52:886][688]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 9.24 sec)
+[2024.02.22-11.07.52:887][688]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.07.52:887][688]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.08.52:652][126]BlueprintLog: New page: Compile BP_Inventory
+[2024.02.22-11.08.52:703][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.22-11.08.53:362][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.08.53:497][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.08.53:500][143]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.08.53:500][143]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_InventoryB540B88344EC7EAD732863A878FF9DB7.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.08.53:550][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 9.43 sec)
+[2024.02.22-11.08.53:551][143]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.08.53:551][143]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.09.38:428][245]BlueprintLog: New page: Compile BP_Inventory
+[2024.02.22-11.09.38:479][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.02.22-11.09.39:012][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.09.39:144][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.09.39:148][258]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.09.39:149][258]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_Inventory17CA100046DAB7826A113BB19E6EAA35.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.09.39:196][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 9.62 sec)
+[2024.02.22-11.09.39:197][258]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.09.39:197][258]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.09.44:496][401]BlueprintLog: New page: Compile BP_Inventory
+[2024.02.22-11.09.44:548][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.22-11.09.44:976][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.09.45:106][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.09.45:110][412]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.09.45:110][412]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_Inventory9826385A4A7891BDF2E4228F7BC0BA0D.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.09.45:157][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 9.80 sec)
+[2024.02.22-11.09.45:158][412]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.09.45:158][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory
+[2024.02.22-11.10.14:145][212]BlueprintLog: New page: Compile BP_Inventory
+[2024.02.22-11.10.14:197][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.02.22-11.10.14:644][221]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.10.14:773][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventorySystem/Blueprints/BP_Inventory" FILE="../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset" SILENT=true
+[2024.02.22-11.10.14:777][221]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/BP_Inventory
+[2024.02.22-11.10.14:778][221]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_InventoryD5A793D6412236927E791396494D9CEC.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset'
+[2024.02.22-11.10.14:824][221]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms (total: 9.98 sec)
+[2024.02.22-11.10.14:826][221]AssetCheck: New page: Asset Save: BP_Inventory
+[2024.02.22-11.10.14:826][221]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/BP_Inventory.BP_Inventory

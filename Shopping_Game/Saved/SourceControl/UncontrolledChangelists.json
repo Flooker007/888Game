@@ -22,7 +22,22 @@
 				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Sugar_Icon.uasset",
 				"D:/888Game/Shopping_Game/Content/InventorySystem/Textures/ItemIcons/Water_Icon.uasset",
 				"D:/888Game/Shopping_Game/Content/TopDown/Input/Actions/IA_Move.uasset",
-				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset"
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_Item.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Enums/E_ItemCategory.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_MasterItem.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Shrimp.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Chili.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Parsley.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Lemon.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_FishSauce.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Ginger.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_LemonGrass.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Shallots.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_straw_mushroom.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Sugar.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/Item_Water.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/Structures/S_InventorySlot.uasset",
+				"D:/888Game/Shopping_Game/Content/InventorySystem/Blueprints/BP_Inventory.uasset"
 			]
 		}
 	]
