@@ -11333,3 +11333,1308 @@ Please see Output Log for details.
 [2024.02.23-09.42.43:083][168]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.23-09.42.43:083][168]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Animations/Animation/Crouching_BlendSpace1D1.Crouching_BlendSpace1D1
 [2024.02.23-09.42.43:083][168]LogContentValidation: Display: Validating /Script/Engine.BlendSpace1D /Game/Animations/Animation/Grandma_Animation/GrandmaBlendSpace1D.GrandmaBlendSpace1D
+[2024.02.23-09.45.48:465][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_SwingWood.BP_SwingWood_C
+[2024.02.23-09.45.48:465][716]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_SwingWood.BP_SwingWood_C
+[2024.02.23-09.45.48:467][716]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood as actor: BP_SwingWood_C /Game/MarketMap.MarketMap:PersistentLevel.BP_SwingWood_C_0
+[2024.02.23-09.45.48:468][716]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood as actor: BP_SwingWood_C /Game/MarketMap.MarketMap:PersistentLevel.BP_SwingWood_C_0
+[2024.02.23-09.45.49:099][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_SwingWood.BP_SwingWood_C
+[2024.02.23-09.45.49:099][768]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_SwingWood.BP_SwingWood_C
+[2024.02.23-09.45.49:102][768]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood as actor: BP_SwingWood_C /Game/MarketMap.MarketMap:PersistentLevel.BP_SwingWood_C_1
+[2024.02.23-09.45.49:103][768]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood as actor: BP_SwingWood_C /Game/MarketMap.MarketMap:PersistentLevel.BP_SwingWood_C_1
+[2024.02.23-09.46.52:127][570]LogStaticMesh: Display: Building static mesh SM_Tree_2...
+[2024.02.23-09.46.52:146][570]LogStaticMesh: Built static mesh [0.02s] /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2
+[2024.02.23-09.46.53:772][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.46.53:772][695]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.46.53:772][695]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_353
+[2024.02.23-09.46.53:773][695]LogStaticMesh: Display: Building static mesh SM_Tree_1...
+[2024.02.23-09.46.53:789][695]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SimPoly_Town/Models/Vegetation/SM_Tree_1) ...
+[2024.02.23-09.46.53:805][695]LogStaticMesh: Built static mesh [0.03s] /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.46.54:561][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.46.54:561][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.46.54:564][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_354
+[2024.02.23-09.46.55:192][797]LogMeshUtilities: Finished distance field build in 3.0s - 98x77x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 55% occupied, 748 triangles, SM_Tree_2
+[2024.02.23-09.46.57:459][962]LogMeshUtilities: Finished distance field build in 3.3s - 105x84x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 46% occupied, 968 triangles, SM_Tree_1
+[2024.02.23-09.47.02:398][471]Cmd: DELETE
+[2024.02.23-09.47.02:398][471]Cmd: ACTOR DELETE
+[2024.02.23-09.47.02:403][471]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.47.02:426][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.23-09.47.02:438][471]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.02.23-09.47.04:822][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.04:822][676]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.04:823][676]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_355
+[2024.02.23-09.47.04:973][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.04:973][689]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.04:974][689]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_356
+[2024.02.23-09.47.05:488][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.05:488][748]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1
+[2024.02.23-09.47.05:490][748]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_1.SM_Tree_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_357
+[2024.02.23-09.47.07:243][907]LogStaticMesh: Display: Building static mesh SM_Tree_4...
+[2024.02.23-09.47.07:270][907]LogStaticMesh: Built static mesh [0.03s] /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.07:349][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.07:349][909]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.07:349][909]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_358
+[2024.02.23-09.47.07:506][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.07:506][919]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.07:507][919]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_359
+[2024.02.23-09.47.08:060][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.08:060][961]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4
+[2024.02.23-09.47.08:062][961]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_4.SM_Tree_4 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_360
+[2024.02.23-09.47.10:133][100]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.10:133][100]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.10:134][100]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_361
+[2024.02.23-09.47.10:135][100]LogStaticMesh: Display: Building static mesh SM_Tree_3...
+[2024.02.23-09.47.10:151][100]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SimPoly_Town/Models/Vegetation/SM_Tree_3) ...
+[2024.02.23-09.47.10:164][100]LogStaticMesh: Built static mesh [0.03s] /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.10:289][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.10:289][106]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.10:290][106]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_362
+[2024.02.23-09.47.10:629][132]LogMeshUtilities: Finished distance field build in 3.3s - 105x112x126 sparse distance field, 1.2Mb total, 0.0Mb always loaded, 45% occupied, 954 triangles, SM_Tree_4
+[2024.02.23-09.47.11:031][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.11:031][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3
+[2024.02.23-09.47.11:033][165]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_3.SM_Tree_3 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_363
+[2024.02.23-09.47.12:917][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2
+[2024.02.23-09.47.12:917][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2
+[2024.02.23-09.47.12:918][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_364
+[2024.02.23-09.47.13:586][343]LogMeshUtilities: Finished distance field build in 3.2s - 98x105x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 47% occupied, 934 triangles, SM_Tree_3
+[2024.02.23-09.47.13:713][351]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2
+[2024.02.23-09.47.13:713][351]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2
+[2024.02.23-09.47.13:714][351]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Vegetation/SM_Tree_2.SM_Tree_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_365
+[2024.02.23-09.47.48:461][729]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood
+[2024.02.23-09.47.48:461][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-09.47.48:461][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-09.47.49:984][803]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-09.48.06:014][787]BlueprintLog: New page: Compile BP_SwingWood
+[2024.02.23-09.48.06:071][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.02.23-09.48.06:848][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-09.48.06:911][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trap/BP_SwingWood" FILE="../../../../../../888Game/Shopping_Game/Content/Trap/BP_SwingWood.uasset" SILENT=true
+[2024.02.23-09.48.06:919][825]LogSavePackage: Moving output files for package: /Game/Trap/BP_SwingWood
+[2024.02.23-09.48.06:919][825]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_SwingWood8531678C4E6A935D821715B2A9479A6D.tmp' to '../../../../../../888Game/Shopping_Game/Content/Trap/BP_SwingWood.uasset'
+[2024.02.23-09.48.06:928][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 12.0 sec)
+[2024.02.23-09.48.06:929][825]AssetCheck: New page: Asset Save: BP_SwingWood
+[2024.02.23-09.48.06:929][825]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Trap/BP_SwingWood.BP_SwingWood
+[2024.02.23-09.49.18:326][ 49]LogStaticMesh: Display: Building static mesh SM_Env_Tree_Large_01...
+[2024.02.23-09.49.18:349][ 49]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2024.02.23-09.49.18:601][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2024.02.23-09.49.18:601][ 59]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2024.02.23-09.49.18:602][ 59]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_366
+[2024.02.23-09.49.19:468][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2024.02.23-09.49.19:468][122]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01
+[2024.02.23-09.49.19:470][122]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Large_01.SM_Env_Tree_Large_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_367
+[2024.02.23-09.49.20:280][182]LogMeshUtilities: Finished distance field build in 1.9s - 126x126x126 sparse distance field, 1.1Mb total, 0.1Mb always loaded, 28% occupied, 774 triangles, SM_Env_Tree_Large_01
+[2024.02.23-09.49.21:912][368]Cmd: DELETE
+[2024.02.23-09.49.21:912][368]Cmd: ACTOR DELETE
+[2024.02.23-09.49.21:917][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.49.21:939][368]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.23-09.49.21:953][368]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2024.02.23-09.49.26:771][835]LogStaticMesh: Display: Building static mesh SM_Env_Tree_Tall_01...
+[2024.02.23-09.49.26:780][835]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2024.02.23-09.49.27:232][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2024.02.23-09.49.27:232][864]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2024.02.23-09.49.27:233][864]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_368
+[2024.02.23-09.49.28:561][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2024.02.23-09.49.28:561][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01
+[2024.02.23-09.49.28:563][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Tall_01.SM_Env_Tree_Tall_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_369
+[2024.02.23-09.49.29:145][ 62]Cmd: DELETE
+[2024.02.23-09.49.29:145][ 62]Cmd: ACTOR DELETE
+[2024.02.23-09.49.29:150][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.49.29:170][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.02.23-09.49.29:175][ 62]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.02.23-09.49.31:068][244]LogStaticMesh: Display: Building static mesh SM_Env_Tree_Pine_02...
+[2024.02.23-09.49.31:072][244]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02
+[2024.02.23-09.49.31:253][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02
+[2024.02.23-09.49.31:253][249]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02
+[2024.02.23-09.49.31:254][249]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_370
+[2024.02.23-09.49.34:273][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02
+[2024.02.23-09.49.34:273][597]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02
+[2024.02.23-09.49.34:275][597]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_Pine_02.SM_Env_Tree_Pine_02 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_371
+[2024.02.23-09.49.34:757][644]Cmd: DELETE
+[2024.02.23-09.49.34:757][644]Cmd: ACTOR DELETE
+[2024.02.23-09.49.34:761][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.49.34:782][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.23-09.49.34:786][644]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2024.02.23-09.49.37:182][864]LogStaticMesh: Display: Building static mesh SM_Env_Tree_House_01...
+[2024.02.23-09.49.37:195][864]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01
+[2024.02.23-09.49.37:395][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01
+[2024.02.23-09.49.37:395][871]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01
+[2024.02.23-09.49.37:395][871]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_372
+[2024.02.23-09.49.38:473][969]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01
+[2024.02.23-09.49.38:473][969]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01
+[2024.02.23-09.49.38:475][969]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Tree_House_01.SM_Env_Tree_House_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_373
+[2024.02.23-09.49.42:689][432]Cmd: DELETE
+[2024.02.23-09.49.42:689][432]Cmd: ACTOR DELETE
+[2024.02.23-09.49.42:694][432]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.49.42:711][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.02.23-09.49.42:715][432]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2024.02.23-09.50.34:735][781]LogStaticMesh: Display: Building static mesh SM_Env_Fence_Wood_Straight_01...
+[2024.02.23-09.50.34:741][781]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01
+[2024.02.23-09.50.34:939][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01
+[2024.02.23-09.50.34:939][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01
+[2024.02.23-09.50.34:940][786]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_374
+[2024.02.23-09.50.36:392][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01
+[2024.02.23-09.50.36:392][872]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01
+[2024.02.23-09.50.36:394][872]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Straight_01.SM_Env_Fence_Wood_Straight_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_375
+[2024.02.23-09.50.44:799][358]Cmd: DUPLICATE
+[2024.02.23-09.50.44:799][358]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.50.49:063][608]Cmd: DUPLICATE
+[2024.02.23-09.50.49:064][608]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.50.52:508][807]Cmd: DUPLICATE
+[2024.02.23-09.50.52:508][807]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.50.56:924][ 63]Cmd: DUPLICATE
+[2024.02.23-09.50.56:924][ 63]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.51.28:760][950]Cmd: DUPLICATE
+[2024.02.23-09.51.28:760][950]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.51.37:596][457]Cmd: DUPLICATE
+[2024.02.23-09.51.37:596][457]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.52.57:875][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.23-09.52.57:889][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.23-09.52.57:933][161]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto1
+[2024.02.23-09.52.57:934][161]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap_Auto19611FFF34693005076249483CC088F92.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto1.umap'
+[2024.02.23-09.52.57:934][161]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto1.umap is in the /Temp path, will not scan.
+[2024.02.23-09.52.57:935][161]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.075
+[2024.02.23-09.52.57:935][161]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2024.02.23-09.56.18:589][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01
+[2024.02.23-09.56.18:589][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01
+[2024.02.23-09.56.18:590][139]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_384
+[2024.02.23-09.56.21:181][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01
+[2024.02.23-09.56.21:181][293]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01
+[2024.02.23-09.56.21:182][293]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_GardenShed_01.SM_Bld_GardenShed_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_385
+[2024.02.23-09.56.30:173][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-09.56.30:229][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-09.56.30:264][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.02.23-09.56.30:319][821]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-09.56.30:320][821]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap64557E2D4400AB674E86A5912C81CFC7.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-09.56.30:327][821]LogFileHelpers: Saving map 'MarketMap' took 0.100
+[2024.02.23-09.56.30:340][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 12.2 sec)
+[2024.02.23-09.56.30:341][821]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-09.56.30:341][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-09.56.31:398][884]Cmd: TRANSACTION UNDO
+[2024.02.23-09.56.31:398][884]LogEditorTransaction: Undo Scale Elements
+[2024.02.23-09.56.31:723][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-09.56.31:724][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-09.56.47:064][777]Cmd: TRANSACTION UNDO
+[2024.02.23-09.56.47:064][777]LogEditorTransaction: Undo Rotate Elements
+[2024.02.23-09.56.47:383][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-09.56.47:384][777]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-09.56.49:204][873]Cmd: DUPLICATE
+[2024.02.23-09.56.49:204][873]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.56.54:006][152]Cmd: DUPLICATE
+[2024.02.23-09.56.54:006][152]Cmd: ACTOR DUPLICATE
+[2024.02.23-09.57.04:786][769]LogStaticMesh: Display: Building static mesh SM_Bld_Church_01...
+[2024.02.23-09.57.04:834][769]LogStaticMesh: Built static mesh [0.05s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.04:913][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.04:913][771]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.04:914][771]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_388
+[2024.02.23-09.57.05:058][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.05:058][777]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.05:059][777]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_389
+[2024.02.23-09.57.05:859][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.05:859][824]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01
+[2024.02.23-09.57.05:861][824]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Church_01.SM_Bld_Church_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_390
+[2024.02.23-09.57.07:183][898]Cmd: DELETE
+[2024.02.23-09.57.07:183][898]Cmd: ACTOR DELETE
+[2024.02.23-09.57.07:188][898]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-09.57.07:207][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.02.23-09.57.07:216][898]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2024.02.23-09.57.09:702][ 25]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 2079 triangles, SM_Bld_Church_01
+[2024.02.23-09.58.15:458][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-09.58.15:508][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-09.58.15:546][951]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.23-09.58.15:597][951]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-09.58.15:597][951]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap9F25DBE44ADB649B4E8B7D984987C916.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-09.58.15:606][951]LogFileHelpers: Saving map 'MarketMap' took 0.098
+[2024.02.23-09.58.15:617][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 12.3 sec)
+[2024.02.23-09.58.15:619][951]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-09.58.15:619][951]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-09.59.14:166][464]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.088 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16717 files in 18821 folders with total size 1107 MiB.
+[2024.02.23-10.14.39:916][929]LogStaticMesh: Display: Building static mesh SM_Bld_Shop_03...
+[2024.02.23-10.14.39:922][929]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2024.02.23-10.14.40:437][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2024.02.23-10.14.40:437][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2024.02.23-10.14.40:438][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_391
+[2024.02.23-10.14.41:656][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2024.02.23-10.14.41:656][ 27]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03
+[2024.02.23-10.14.41:657][ 27]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_Shop_03.SM_Bld_Shop_03 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_392
+[2024.02.23-10.14.45:152][230]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x91 sparse distance field, 1.8Mb total, 0.0Mb always loaded, 73% occupied, 295 triangles, SM_Bld_Shop_03
+[2024.02.23-10.15.10:703][723]LogContentBrowser: Deferred new asset file creation: BP_FishSauce1
+[2024.02.23-10.15.10:711][723]LogContentBrowser: Creating deferred item: BP_FishSauce1
+[2024.02.23-10.15.10:730][724]LogContentBrowser: Renaming the item being created (Deferred Item: BP_FishSauce1).
+[2024.02.23-10.15.29:320][839]LogContentBrowser: Attempting asset rename: BP_FishSauce1 -> BP_StrawMushroom
+[2024.02.23-10.15.29:343][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.02.23-10.15.29:359][839]LogContentBrowser: End creating deferred item BP_FishSauce1
+[2024.02.23-10.15.53:978][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.23-10.15.53:980][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.23-10.15.54:034][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto2
+[2024.02.23-10.15.54:035][297]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap_Auto211D8BD414D49959358D14CB99E26DEA3.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto2.umap'
+[2024.02.23-10.15.54:035][297]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto2.umap is in the /Temp path, will not scan.
+[2024.02.23-10.15.54:036][297]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.077
+[2024.02.23-10.15.54:036][297]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2024.02.23-10.15.54:036][297]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Text/BP_StrawMushroom] ([2] browsable assets)...
+[2024.02.23-10.15.54:036][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text/BP_StrawMushroom]
+[2024.02.23-10.15.54:036][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_StrawMushroom" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Text/BP_StrawMushroom_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.23-10.15.54:039][297]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Text/BP_StrawMushroom_Auto2
+[2024.02.23-10.15.54:039][297]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_StrawMushroom_Auto242401AF94A4D4CB76F56208D1D01FB20.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Text/BP_StrawMushroom_Auto2.uasset'
+[2024.02.23-10.15.54:040][297]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.02.23-10.17.43:624][870]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom
+[2024.02.23-10.17.43:624][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.17.43:624][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.18.05:350][ 68]LogContentBrowser: Attempting asset rename: Item_straw_mushroom -> Item_straw_mushroom
+[2024.02.23-10.18.44:971][317]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.19.02:909][345]BlueprintLog: New page: Compile BP_StrawMushroom
+[2024.02.23-10.19.02:946][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.02.23-10.19.06:404][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_StrawMushroom.BP_StrawMushroom_C
+[2024.02.23-10.19.06:404][538]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_StrawMushroom.BP_StrawMushroom_C
+[2024.02.23-10.19.06:405][538]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom as actor: BP_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_StrawMushroom_C_0
+[2024.02.23-10.19.06:406][538]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom as actor: BP_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_StrawMushroom_C_0
+[2024.02.23-10.19.08:461][660]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_StrawMushroom.BP_StrawMushroom_C
+[2024.02.23-10.19.08:461][660]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_StrawMushroom.BP_StrawMushroom_C
+[2024.02.23-10.19.08:463][660]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom as actor: BP_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_StrawMushroom_C_1
+[2024.02.23-10.19.08:464][660]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom as actor: BP_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_StrawMushroom_C_1
+[2024.02.23-10.20.08:340][212]Cmd: DUPLICATE
+[2024.02.23-10.20.08:340][212]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.20.23:009][ 60]Cmd: DUPLICATE
+[2024.02.23-10.20.23:009][ 60]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.22.31:124][729]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_LemonGrass1
+[2024.02.23-10.22.31:132][729]LogContentBrowser: Creating deferred item: BP_PickupActor_LemonGrass1
+[2024.02.23-10.22.31:151][730]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_LemonGrass1).
+[2024.02.23-10.22.41:829][370]LogContentBrowser: Attempting asset rename: BP_PickupActor_LemonGrass1 -> BP_PickupActor_StrawMushroom
+[2024.02.23-10.22.41:860][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.23-10.22.41:884][370]LogContentBrowser: End creating deferred item BP_PickupActor_LemonGrass1
+[2024.02.23-10.22.41:887][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.22.43:162][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom
+[2024.02.23-10.22.43:163][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.22.43:163][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.22.44:516][507]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.23.02:250][517]BlueprintLog: New page: Compile BP_PickupActor_StrawMushroom
+[2024.02.23-10.23.02:285][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.23-10.23.02:735][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.23.02:813][534]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom
+[2024.02.23-10.23.02:813][534]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_StrawMushroomCFB1682D4F393331B2C8BCBBB5B546EA.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.uasset'
+[2024.02.23-10.23.02:825][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 12.4 sec)
+[2024.02.23-10.23.02:826][534]AssetCheck: New page: Asset Save: BP_PickupActor_StrawMushroom
+[2024.02.23-10.23.02:826][534]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom
+[2024.02.23-10.23.06:260][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom_C
+[2024.02.23-10.23.06:260][729]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom_C
+[2024.02.23-10.23.06:262][729]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom as actor: BP_PickupActor_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_StrawMushroom_C_0
+[2024.02.23-10.23.06:263][729]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom as actor: BP_PickupActor_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_StrawMushroom_C_0
+[2024.02.23-10.23.07:121][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom_C
+[2024.02.23-10.23.07:121][779]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom_C
+[2024.02.23-10.23.07:123][779]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom as actor: BP_PickupActor_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_StrawMushroom_C_1
+[2024.02.23-10.23.07:124][779]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_StrawMushroom.BP_PickupActor_StrawMushroom as actor: BP_PickupActor_StrawMushroom_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_StrawMushroom_C_1
+[2024.02.23-10.23.55:819][613]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.23.55:828][613]LogContentBrowser: Creating deferred item: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.23.55:848][614]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_StrawMushroom1).
+[2024.02.23-10.24.04:021][104]LogContentBrowser: Attempting asset rename: BP_PickupActor_StrawMushroom1 -> BP_PickupActor_Parsley
+[2024.02.23-10.24.04:048][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.23-10.24.04:073][104]LogContentBrowser: End creating deferred item BP_PickupActor_StrawMushroom1
+[2024.02.23-10.24.04:075][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.24.05:535][188]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley
+[2024.02.23-10.24.05:536][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.24.05:536][188]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.24.06:945][253]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.25.42:692][298]LogStaticMesh: Display: Building static mesh SM_Prop_HoseReel_01...
+[2024.02.23-10.25.42:698][298]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Props/SM_Prop_HoseReel_01.SM_Prop_HoseReel_01
+[2024.02.23-10.25.54:007][841]LogStaticMesh: Display: Building static mesh SM_Prop_Plant_01...
+[2024.02.23-10.25.54:012][841]LogStaticMesh: Built static mesh [0.01s] /Game/PolygonTown/Meshes/Props/SM_Prop_Plant_01.SM_Prop_Plant_01
+[2024.02.23-10.26.06:477][558]BlueprintLog: New page: Compile BP_PickupActor_Parsley
+[2024.02.23-10.26.06:519][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.23-10.26.28:266][812]Cmd: DUPLICATE
+[2024.02.23-10.26.28:266][812]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.26.42:996][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.42:996][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.42:997][669]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_0
+[2024.02.23-10.26.42:998][669]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_0
+[2024.02.23-10.26.44:087][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.44:087][733]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.44:089][733]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_1
+[2024.02.23-10.26.44:090][733]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_1
+[2024.02.23-10.26.45:618][821]Cmd: DELETE
+[2024.02.23-10.26.45:618][821]Cmd: ACTOR DELETE
+[2024.02.23-10.26.45:623][821]LogEditorActor: Deleted Actor: BP_PickupActor_Parsley_C
+[2024.02.23-10.26.45:642][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.02.23-10.26.45:652][821]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2024.02.23-10.26.49:859][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.49:860][ 68]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.49:861][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_2
+[2024.02.23-10.26.49:862][ 68]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_2
+[2024.02.23-10.26.50:731][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.50:731][119]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley_C
+[2024.02.23-10.26.50:733][119]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_3
+[2024.02.23-10.26.50:734][119]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley as actor: BP_PickupActor_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Parsley_C_3
+[2024.02.23-10.27.30:452][439]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_LemonGrass.BP_PickupActor_LemonGrass
+[2024.02.23-10.27.30:453][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.27.30:453][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.27.47:245][409]Cmd: DUPLICATE
+[2024.02.23-10.27.47:246][409]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.27.59:885][142]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.27.59:894][142]LogContentBrowser: Creating deferred item: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.27.59:914][143]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_StrawMushroom1).
+[2024.02.23-10.28.06:231][522]LogContentBrowser: Attempting asset rename: BP_PickupActor_StrawMushroom1 -> BP_PickupActor_Ginger
+[2024.02.23-10.28.06:258][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.23-10.28.06:281][522]LogContentBrowser: End creating deferred item BP_PickupActor_StrawMushroom1
+[2024.02.23-10.28.06:282][522]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.28.09:182][691]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger
+[2024.02.23-10.28.09:182][691]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.28.09:182][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.28.12:491][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger_C
+[2024.02.23-10.28.12:491][864]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger_C
+[2024.02.23-10.28.12:493][864]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger as actor: BP_PickupActor_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Ginger_C_0
+[2024.02.23-10.28.12:494][864]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger as actor: BP_PickupActor_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Ginger_C_0
+[2024.02.23-10.28.13:368][915]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger_C
+[2024.02.23-10.28.13:368][915]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger_C
+[2024.02.23-10.28.13:370][915]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger as actor: BP_PickupActor_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Ginger_C_1
+[2024.02.23-10.28.13:371][915]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger as actor: BP_PickupActor_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Ginger_C_1
+[2024.02.23-10.28.27:277][709]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.29.21:288][848]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.02.23-10.29.21:288][848]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.02.23-10.29.57:912][ 41]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.02.23-10.30.38:255][383]LogStaticMesh: Display: Building static mesh SM_Plant_12...
+[2024.02.23-10.30.38:276][383]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/SimPoly_Town/Plants/SM_Plant_12) ...
+[2024.02.23-10.30.38:428][383]LogStaticMesh: Built static mesh [0.17s] /Game/SimPoly_Town/Plants/SM_Plant_12.SM_Plant_12
+[2024.02.23-10.31.00:472][581]BlueprintLog: New page: Compile BP_PickupActor_Ginger
+[2024.02.23-10.31.00:523][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.23-10.31.01:000][595]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.31.01:086][595]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger
+[2024.02.23-10.31.01:086][595]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_Ginger13B4E4C34D8CB4ACEBCFF38F9A3ECAAE.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.uasset'
+[2024.02.23-10.31.01:095][595]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 12.5 sec)
+[2024.02.23-10.31.01:096][595]AssetCheck: New page: Asset Save: BP_PickupActor_Ginger
+[2024.02.23-10.31.01:096][595]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Ginger.BP_PickupActor_Ginger
+[2024.02.23-10.31.19:167][655]LogContentBrowser: Deferred new asset file creation: BP_StrawMushroom1
+[2024.02.23-10.31.19:174][655]LogContentBrowser: Creating deferred item: BP_StrawMushroom1
+[2024.02.23-10.31.19:193][656]LogContentBrowser: Renaming the item being created (Deferred Item: BP_StrawMushroom1).
+[2024.02.23-10.31.26:097][ 70]LogContentBrowser: Attempting asset rename: BP_StrawMushroom1 -> BP_Parsley
+[2024.02.23-10.31.26:121][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.23-10.31.26:137][ 70]LogContentBrowser: End creating deferred item BP_StrawMushroom1
+[2024.02.23-10.31.27:411][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_Parsley.BP_Parsley
+[2024.02.23-10.31.27:411][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.31.27:411][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.31.29:440][249]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.31.40:393][857]BlueprintLog: New page: Compile BP_Parsley
+[2024.02.23-10.31.40:425][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.02.23-10.31.40:987][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.31.41:054][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_Parsley" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_Parsley.uasset" SILENT=true
+[2024.02.23-10.31.41:057][881]LogSavePackage: Moving output files for package: /Game/Text/BP_Parsley
+[2024.02.23-10.31.41:057][881]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_ParsleyF58237B443779BFC06F44082BDD65C83.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_Parsley.uasset'
+[2024.02.23-10.31.41:068][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 12.6 sec)
+[2024.02.23-10.31.41:068][881]AssetCheck: New page: Asset Save: BP_Parsley
+[2024.02.23-10.31.41:068][881]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_Parsley.BP_Parsley
+[2024.02.23-10.31.48:039][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Parsley.BP_Parsley_C
+[2024.02.23-10.31.48:039][278]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Parsley.BP_Parsley_C
+[2024.02.23-10.31.48:040][278]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Parsley.BP_Parsley as actor: BP_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Parsley_C_0
+[2024.02.23-10.31.48:041][278]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Parsley.BP_Parsley as actor: BP_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Parsley_C_0
+[2024.02.23-10.31.49:591][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Parsley.BP_Parsley_C
+[2024.02.23-10.31.49:591][369]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Parsley.BP_Parsley_C
+[2024.02.23-10.31.49:593][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Parsley.BP_Parsley as actor: BP_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Parsley_C_1
+[2024.02.23-10.31.49:594][369]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Parsley.BP_Parsley as actor: BP_Parsley_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Parsley_C_1
+[2024.02.23-10.31.55:442][710]LogContentBrowser: Deferred new asset file creation: BP_Parsley1
+[2024.02.23-10.31.55:449][710]LogContentBrowser: Creating deferred item: BP_Parsley1
+[2024.02.23-10.31.55:470][711]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Parsley1).
+[2024.02.23-10.32.01:444][ 69]LogContentBrowser: Attempting asset rename: BP_Parsley1 -> BP_Ginger
+[2024.02.23-10.32.01:468][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.02.23-10.32.01:483][ 69]LogContentBrowser: End creating deferred item BP_Parsley1
+[2024.02.23-10.32.06:417][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_Ginger.BP_Ginger
+[2024.02.23-10.32.06:417][357]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.32.06:417][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.32.07:872][430]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.32.18:670][ 53]BlueprintLog: New page: Compile BP_Ginger
+[2024.02.23-10.32.18:706][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.23-10.32.19:181][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.32.19:242][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_Ginger" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_Ginger.uasset" SILENT=true
+[2024.02.23-10.32.19:245][ 72]LogSavePackage: Moving output files for package: /Game/Text/BP_Ginger
+[2024.02.23-10.32.19:245][ 72]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_GingerF4FE4EDB4928188674D89DB6A88C397E.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_Ginger.uasset'
+[2024.02.23-10.32.19:256][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 12.7 sec)
+[2024.02.23-10.32.19:256][ 72]AssetCheck: New page: Asset Save: BP_Ginger
+[2024.02.23-10.32.19:256][ 72]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_Ginger.BP_Ginger
+[2024.02.23-10.32.23:149][296]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Ginger.BP_Ginger_C
+[2024.02.23-10.32.23:149][296]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Ginger.BP_Ginger_C
+[2024.02.23-10.32.23:150][296]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Ginger.BP_Ginger as actor: BP_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Ginger_C_0
+[2024.02.23-10.32.23:151][296]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Ginger.BP_Ginger as actor: BP_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Ginger_C_0
+[2024.02.23-10.32.24:212][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Ginger.BP_Ginger_C
+[2024.02.23-10.32.24:212][358]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Ginger.BP_Ginger_C
+[2024.02.23-10.32.24:214][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Ginger.BP_Ginger as actor: BP_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Ginger_C_1
+[2024.02.23-10.32.24:215][358]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Ginger.BP_Ginger as actor: BP_Ginger_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Ginger_C_1
+[2024.02.23-10.32.40:000][271]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.23-10.32.40:007][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-10.32.40:008][271]PIE: New page: PIE session: MarketMap (24 ก.พ. 2567 00:32:40)
+[2024.02.23-10.32.40:008][271]LogPlayLevel: Display: Creating online subsystem for client :Context_176
+[2024.02.23-10.32.40:010][271]LogOnline: OSS: Created online subsystem instance for: :Context_176
+[2024.02.23-10.32.40:022][272]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.32.40:040][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017738s)
+[2024.02.23-10.32.40:040][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.017790s)
+[2024.02.23-10.32.40:061][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.23-10.32.40:068][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.32.40:068][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.32.40:069][272]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.32.40:069][272]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2024.02.23-10.32.40:069][272]LogAudio: Display: Creating Audio Device:                 Id: 81, Scope: Unique, Realtime: True
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.23-10.32.40:069][272]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-10.32.40:069][272]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-10.32.40:070][272]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-10.32.40:070][272]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-10.32.40:070][272]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-10.32.40:072][272]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-10.32.40:252][272]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.23-10.32.40:253][272]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-10.32.40:253][272]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-10.32.40:253][272]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-10.32.40:254][272]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=81
+[2024.02.23-10.32.40:254][272]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=81
+[2024.02.23-10.32.40:255][272]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=81
+[2024.02.23-10.32.40:255][272]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=81
+[2024.02.23-10.32.40:255][272]LogInit: FAudioDevice initialized with ID 81.
+[2024.02.23-10.32.40:255][272]LogAudio: Display: Audio Device (ID: 81) registered with world 'MarketMap'.
+[2024.02.23-10.32.40:256][272]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 81
+[2024.02.23-10.32.40:309][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.32.40:309][272]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.32.40:320][272]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.32.40
+[2024.02.23-10.32.40:321][272]LogWorld: Bringing up level for play took: 0.011970
+[2024.02.23-10.32.40:332][272]PIE: Server logged in
+[2024.02.23-10.32.40:334][272]PIE: Play in editor total start time 0.328 seconds.
+[2024.02.23-10.32.40:403][272]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.23-10.33.14:622][323]LogNet: Browse: /Game/MarketMap
+[2024.02.23-10.33.14:622][323]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.23-10.33.14:622][323]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.33.14:623][323]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.33.14:625][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.33.14:643][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-10.33.14:650][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.02.23-10.33.14:653][323]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.33.14:670][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017016s)
+[2024.02.23-10.33.14:670][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.017093s)
+[2024.02.23-10.33.14:670][323]LogAudio: Display: Audio Device (ID: 81) registered with world 'MarketMap'.
+[2024.02.23-10.33.14:670][323]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.33.14:671][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.33.14:671][323]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.33.14:671][323]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2024.02.23-10.33.14:671][323]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.33.14:679][323]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.33.14
+[2024.02.23-10.33.14:680][323]LogWorld: Bringing up level for play took: 0.008020
+[2024.02.23-10.33.14:687][323]LogLoad: Took 0.065887 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.23-10.33.52:556][592]LogNet: Browse: /Game/MarketMap
+[2024.02.23-10.33.52:556][592]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.23-10.33.52:556][592]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.33.52:557][592]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.33.52:559][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.33.52:574][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-10.33.52:579][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.23-10.33.52:583][592]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.33.52:599][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016457s)
+[2024.02.23-10.33.52:599][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.016520s)
+[2024.02.23-10.33.52:599][592]LogAudio: Display: Audio Device (ID: 81) registered with world 'MarketMap'.
+[2024.02.23-10.33.52:599][592]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.33.52:599][592]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.33.52:600][592]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.33.52:600][592]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2024.02.23-10.33.52:600][592]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.33.52:608][592]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.33.52
+[2024.02.23-10.33.52:608][592]LogWorld: Bringing up level for play took: 0.007508
+[2024.02.23-10.33.52:615][592]LogLoad: Took 0.059577 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.23-10.35.02:910][806]LogNet: Browse: /Game/MarketMap
+[2024.02.23-10.35.02:910][806]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.23-10.35.02:911][806]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.35.02:912][806]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.35.02:913][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.35.02:932][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-10.35.02:937][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.02.23-10.35.02:941][806]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.35.02:957][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016525s)
+[2024.02.23-10.35.02:957][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.016579s)
+[2024.02.23-10.35.02:957][806]LogAudio: Display: Audio Device (ID: 81) registered with world 'MarketMap'.
+[2024.02.23-10.35.02:957][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.35.02:957][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.35.02:958][806]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.35.02:958][806]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2024.02.23-10.35.02:958][806]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.35.02:965][806]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.35.02
+[2024.02.23-10.35.02:966][806]LogWorld: Bringing up level for play took: 0.007550
+[2024.02.23-10.35.02:973][806]LogLoad: Took 0.062901 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.23-10.35.07:653][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.35.07:653][ 82]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.35.07:657][ 82]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.23-10.35.07:662][ 82]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.35.07:664][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.35.07:669][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-10.35.07:678][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.35.07:698][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 81
+[2024.02.23-10.35.07:698][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.02.23-10.35.07:700][ 82]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
+[2024.02.23-10.35.07:715][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.23-10.35.07:799][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_176
+[2024.02.23-10.35.40:962][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.02.23-10.35.40:965][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.23-10.35.41:022][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto3
+[2024.02.23-10.35.41:023][ 38]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap_Auto3C53FAFC94A5FE60ACD836C88306587CF.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto3.umap'
+[2024.02.23-10.35.41:023][ 38]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto3.umap is in the /Temp path, will not scan.
+[2024.02.23-10.35.41:024][ 38]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.077
+[2024.02.23-10.35.41:024][ 38]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2024.02.23-10.35.41:024][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Text/BP_StrawMushroom] ([2] browsable assets)...
+[2024.02.23-10.35.41:024][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/Text/BP_StrawMushroom]
+[2024.02.23-10.35.41:024][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_StrawMushroom" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Text/BP_StrawMushroom_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.23-10.35.41:027][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Text/BP_StrawMushroom_Auto3
+[2024.02.23-10.35.41:027][ 38]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_StrawMushroom_Auto343E417E6437A8FC1F5DE8FA9E67F8946.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Text/BP_StrawMushroom_Auto3.uasset'
+[2024.02.23-10.35.41:028][ 38]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley] ([2] browsable assets)...
+[2024.02.23-10.35.41:041][ 38]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley]
+[2024.02.23-10.35.41:041][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley]
+[2024.02.23-10.35.41:048][ 38]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley_Auto3
+[2024.02.23-10.35.41:048][ 38]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_Parsley_Auto3C7EB8A964772744A02363994555FA8BF.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley_Auto3.uasset'
+[2024.02.23-10.35.41:049][ 38]LogFileHelpers: Auto-saving content packages took 0.025
+[2024.02.23-10.36.10:002][768]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.36.10:011][768]LogContentBrowser: Creating deferred item: BP_PickupActor_StrawMushroom1
+[2024.02.23-10.36.10:032][769]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_StrawMushroom1).
+[2024.02.23-10.36.21:312][445]LogContentBrowser: Attempting asset rename: BP_PickupActor_StrawMushroom1 -> BP_PickupActor_Shrimp
+[2024.02.23-10.36.21:343][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.02.23-10.36.21:361][445]LogContentBrowser: End creating deferred item BP_PickupActor_StrawMushroom1
+[2024.02.23-10.36.21:361][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.36.23:961][599]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_Shrimp1
+[2024.02.23-10.36.23:970][599]LogContentBrowser: Creating deferred item: BP_PickupActor_Shrimp1
+[2024.02.23-10.36.23:989][600]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_Shrimp1).
+[2024.02.23-10.36.34:745][245]LogContentBrowser: Attempting asset rename: BP_PickupActor_Shrimp1 -> BP_PickupActor_Shallots
+[2024.02.23-10.36.34:773][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.23-10.36.34:791][245]LogContentBrowser: End creating deferred item BP_PickupActor_Shrimp1
+[2024.02.23-10.36.34:792][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.36.36:478][345]LogContentBrowser: Deferred new asset file creation: BP_PickupActor_Shallots1
+[2024.02.23-10.36.36:488][345]LogContentBrowser: Creating deferred item: BP_PickupActor_Shallots1
+[2024.02.23-10.36.36:508][346]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PickupActor_Shallots1).
+[2024.02.23-10.36.43:488][764]LogContentBrowser: Attempting asset rename: BP_PickupActor_Shallots1 -> BP_PickupActor_Sugar
+[2024.02.23-10.36.43:517][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.23-10.36.43:534][764]LogContentBrowser: End creating deferred item BP_PickupActor_Shallots1
+[2024.02.23-10.36.43:535][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.36.46:030][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar
+[2024.02.23-10.36.46:030][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.36.46:030][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.36.47:206][961]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.37.00:235][701]LogStaticMesh: Display: Building static mesh SM_Env_Fence_White_Gate_01_Door...
+[2024.02.23-10.37.00:238][701]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_White_Gate_01_Door.SM_Env_Fence_White_Gate_01_Door
+[2024.02.23-10.38.27:775][638]LogStaticMesh: Display: Building static mesh SM_Env_FlowerPatch_03...
+[2024.02.23-10.38.27:777][638]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Environment/SM_Env_FlowerPatch_03.SM_Env_FlowerPatch_03
+[2024.02.23-10.38.31:540][853]BlueprintLog: New page: Compile BP_PickupActor_Sugar
+[2024.02.23-10.38.31:582][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.23-10.38.32:191][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.38.32:278][880]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar
+[2024.02.23-10.38.32:278][880]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_SugarCDBAB95547A0541A34691F92C9FA11DC.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.uasset'
+[2024.02.23-10.38.32:291][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 12.8 sec)
+[2024.02.23-10.38.32:292][880]AssetCheck: New page: Asset Save: BP_PickupActor_Sugar
+[2024.02.23-10.38.32:292][880]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar
+[2024.02.23-10.38.34:308][995]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.34:308][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.35:540][ 62]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.35:540][ 62]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.35:540][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.37:112][144]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.37:112][144]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.37:112][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.38:071][195]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.38:072][195]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.38:072][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.38:933][241]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.38:933][241]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.38:933][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.39:916][294]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.39:916][294]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.39:916][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.40:576][328]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.40:576][328]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.40:576][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.41:091][354]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.02.23-10.38.41:091][354]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.38.41:091][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.38.42:130][412]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.38.42:198][412]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar
+[2024.02.23-10.38.42:198][412]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_Sugar1EE17E1041C9815B0C6911A5F7F3E30E.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.uasset'
+[2024.02.23-10.38.42:204][412]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 12.9 sec)
+[2024.02.23-10.38.42:205][412]AssetCheck: New page: Asset Save: BP_PickupActor_Sugar
+[2024.02.23-10.38.42:205][412]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar
+[2024.02.23-10.38.44:436][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.23-10.38.45:507][540]LogSlate: Window 'Save Content' being destroyed
+[2024.02.23-10.38.45:530][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.38.45:579][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-10.38.45:618][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.02.23-10.38.45:671][540]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-10.38.45:671][540]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMapD300A3C44A0ECA6566AEB5A28A9E75CF.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-10.38.45:678][540]LogFileHelpers: Saving map 'MarketMap' took 0.100
+[2024.02.23-10.38.45:685][540]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley
+[2024.02.23-10.38.45:685][540]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_ParsleyD0B6D6734343D589DB54DCA2702467CF.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.uasset'
+[2024.02.23-10.38.45:712][540]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots
+[2024.02.23-10.38.45:712][540]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_Shallots50C38F6B451A06B2277D2A8F4E24341D.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.uasset'
+[2024.02.23-10.38.45:730][540]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp
+[2024.02.23-10.38.45:730][540]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_ShrimpD2F80EC94D1897981FDE12A5364D70C2.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.uasset'
+[2024.02.23-10.38.45:733][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_StrawMushroom" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_StrawMushroom.uasset" SILENT=true
+[2024.02.23-10.38.45:735][540]LogSavePackage: Moving output files for package: /Game/Text/BP_StrawMushroom
+[2024.02.23-10.38.45:735][540]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_StrawMushroom0256F72B4395085F94DFAFA014962AE5.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_StrawMushroom.uasset'
+[2024.02.23-10.38.45:747][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 13.1 sec)
+[2024.02.23-10.38.45:750][540]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.23-10.38.45:750][540]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-10.38.45:750][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Parsley.BP_PickupActor_Parsley
+[2024.02.23-10.38.45:750][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots
+[2024.02.23-10.38.45:750][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp
+[2024.02.23-10.38.45:750][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_StrawMushroom.BP_StrawMushroom
+[2024.02.23-10.38.53:098][972]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp
+[2024.02.23-10.38.53:099][972]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.38.53:099][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.38.54:502][ 41]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.39.25:038][816]LogStaticMesh: Display: Building static mesh SM_Item_Sausage_Bun_01...
+[2024.02.23-10.39.25:041][816]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Items/SM_Item_Sausage_Bun_01.SM_Item_Sausage_Bun_01
+[2024.02.23-10.39.31:656][182]LogStaticMesh: Display: Building static mesh SM_Item_Sausage_Cooked_01...
+[2024.02.23-10.39.31:657][182]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Items/SM_Item_Sausage_Cooked_01.SM_Item_Sausage_Cooked_01
+[2024.02.23-10.39.36:188][434]LogStaticMesh: Display: Building static mesh SM_Item_Sausage_Raw_01...
+[2024.02.23-10.39.36:189][434]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Items/SM_Item_Sausage_Raw_01.SM_Item_Sausage_Raw_01
+[2024.02.23-10.39.49:451][193]BlueprintLog: New page: Compile BP_PickupActor_Shrimp
+[2024.02.23-10.39.49:490][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.23-10.39.50:121][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.39.50:198][220]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp
+[2024.02.23-10.39.50:198][220]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_Shrimp9DAE1CC54822996EBE7204AD5B753ADE.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.uasset'
+[2024.02.23-10.39.50:208][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 13.2 sec)
+[2024.02.23-10.39.50:209][220]AssetCheck: New page: Asset Save: BP_PickupActor_Shrimp
+[2024.02.23-10.39.50:209][220]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp
+[2024.02.23-10.39.54:992][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots
+[2024.02.23-10.39.54:993][496]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.39.54:993][496]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.40.54:746][ 21]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.41.04:436][550]LogStaticMesh: Display: Building static mesh SM_Mushrooms_2...
+[2024.02.23-10.41.04:442][550]LogStaticMesh: Built static mesh [0.01s] /Game/SimPoly_Town/Models/Vegetation/SM_Mushrooms_2.SM_Mushrooms_2
+[2024.02.23-10.41.06:476][665]BlueprintLog: New page: Compile BP_PickupActor_Shallots
+[2024.02.23-10.41.06:513][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.23-10.41.06:926][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.41.07:008][681]LogSavePackage: Moving output files for package: /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots
+[2024.02.23-10.41.07:008][681]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_PickupActor_ShallotsE160A571466AA2E9D8F13485B0F04A1B.tmp' to '../../../../../../888Game/Shopping_Game/Content/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.uasset'
+[2024.02.23-10.41.07:017][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 13.2 sec)
+[2024.02.23-10.41.07:019][681]AssetCheck: New page: Asset Save: BP_PickupActor_Shallots
+[2024.02.23-10.41.07:019][681]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots
+[2024.02.23-10.41.18:266][327]Cmd: DUPLICATE
+[2024.02.23-10.41.18:266][327]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.41.19:651][404]Cmd: DUPLICATE
+[2024.02.23-10.41.19:651][404]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.41.24:448][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp_C
+[2024.02.23-10.41.24:448][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp_C
+[2024.02.23-10.41.24:449][673]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp as actor: BP_PickupActor_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shrimp_C_0
+[2024.02.23-10.41.24:450][673]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp as actor: BP_PickupActor_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shrimp_C_0
+[2024.02.23-10.41.25:764][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp_C
+[2024.02.23-10.41.25:764][750]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp_C
+[2024.02.23-10.41.25:767][750]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp as actor: BP_PickupActor_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shrimp_C_1
+[2024.02.23-10.41.25:768][750]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shrimp.BP_PickupActor_Shrimp as actor: BP_PickupActor_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shrimp_C_1
+[2024.02.23-10.41.36:428][359]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar_C
+[2024.02.23-10.41.36:428][359]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar_C
+[2024.02.23-10.41.36:430][359]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar as actor: BP_PickupActor_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Sugar_C_0
+[2024.02.23-10.41.36:431][359]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar as actor: BP_PickupActor_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Sugar_C_0
+[2024.02.23-10.41.37:728][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar_C
+[2024.02.23-10.41.37:728][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar_C
+[2024.02.23-10.41.37:730][435]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar as actor: BP_PickupActor_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Sugar_C_1
+[2024.02.23-10.41.37:732][435]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Sugar.BP_PickupActor_Sugar as actor: BP_PickupActor_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Sugar_C_1
+[2024.02.23-10.42.09:907][309]Cmd: DUPLICATE
+[2024.02.23-10.42.09:907][309]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.42.17:658][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots_C
+[2024.02.23-10.42.17:658][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots_C
+[2024.02.23-10.42.17:659][760]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots as actor: BP_PickupActor_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shallots_C_0
+[2024.02.23-10.42.17:660][760]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots as actor: BP_PickupActor_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shallots_C_0
+[2024.02.23-10.42.18:961][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots_C
+[2024.02.23-10.42.18:961][836]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots_C
+[2024.02.23-10.42.18:963][836]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots as actor: BP_PickupActor_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shallots_C_1
+[2024.02.23-10.42.18:964][836]LogActorFactory: Actor Factory spawned Blueprint /Game/InventorySystem/Blueprints/ItemClasses/BP_PickupActor_Shallots.BP_PickupActor_Shallots as actor: BP_PickupActor_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_PickupActor_Shallots_C_1
+[2024.02.23-10.42.40:922][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.42.40:983][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-10.42.41:028][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.02.23-10.42.41:095][122]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-10.42.41:096][122]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMapA0C2053B4B66D5CFCC793B8738B7D8F2.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-10.42.41:103][122]LogFileHelpers: Saving map 'MarketMap' took 0.120
+[2024.02.23-10.42.41:113][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 13.4 sec)
+[2024.02.23-10.42.41:116][122]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-10.42.41:116][122]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-10.43.28:210][893]LogContentBrowser: Deferred new asset file creation: BP_StrawMushroom1
+[2024.02.23-10.43.28:218][893]LogContentBrowser: Creating deferred item: BP_StrawMushroom1
+[2024.02.23-10.43.28:239][894]LogContentBrowser: Renaming the item being created (Deferred Item: BP_StrawMushroom1).
+[2024.02.23-10.43.41:784][706]LogContentBrowser: Attempting asset rename: BP_StrawMushroom1 -> BP_Shrimp
+[2024.02.23-10.43.41:805][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.23-10.43.41:819][706]LogContentBrowser: End creating deferred item BP_StrawMushroom1
+[2024.02.23-10.43.42:994][775]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_Shrimp.BP_Shrimp
+[2024.02.23-10.43.42:994][775]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.43.42:994][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.43.44:263][836]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.43.58:961][669]BlueprintLog: New page: Compile BP_Shrimp
+[2024.02.23-10.43.59:001][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.02.23-10.43.59:563][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.43.59:622][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_Shrimp" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_Shrimp.uasset" SILENT=true
+[2024.02.23-10.43.59:625][693]LogSavePackage: Moving output files for package: /Game/Text/BP_Shrimp
+[2024.02.23-10.43.59:625][693]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_Shrimp15185FA04ABDA650BDF28B84C3C02691.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_Shrimp.uasset'
+[2024.02.23-10.43.59:636][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 13.5 sec)
+[2024.02.23-10.43.59:637][693]AssetCheck: New page: Asset Save: BP_Shrimp
+[2024.02.23-10.43.59:637][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_Shrimp.BP_Shrimp
+[2024.02.23-10.44.03:409][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shrimp.BP_Shrimp_C
+[2024.02.23-10.44.03:409][904]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shrimp.BP_Shrimp_C
+[2024.02.23-10.44.03:411][904]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shrimp.BP_Shrimp as actor: BP_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shrimp_C_0
+[2024.02.23-10.44.03:412][904]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shrimp.BP_Shrimp as actor: BP_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shrimp_C_0
+[2024.02.23-10.44.05:122][  5]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shrimp.BP_Shrimp_C
+[2024.02.23-10.44.05:122][  5]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shrimp.BP_Shrimp_C
+[2024.02.23-10.44.05:124][  5]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shrimp.BP_Shrimp as actor: BP_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shrimp_C_1
+[2024.02.23-10.44.05:125][  5]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shrimp.BP_Shrimp as actor: BP_Shrimp_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shrimp_C_1
+[2024.02.23-10.44.13:823][497]LogContentBrowser: Deferred new asset file creation: BP_Shrimp1
+[2024.02.23-10.44.13:832][497]LogContentBrowser: Creating deferred item: BP_Shrimp1
+[2024.02.23-10.44.13:853][498]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Shrimp1).
+[2024.02.23-10.44.19:171][817]LogContentBrowser: Attempting asset rename: BP_Shrimp1 -> BP_Shallots
+[2024.02.23-10.44.19:194][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.23-10.44.19:213][817]LogContentBrowser: End creating deferred item BP_Shrimp1
+[2024.02.23-10.44.20:361][883]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_Shallots.BP_Shallots
+[2024.02.23-10.44.20:361][883]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.44.20:361][883]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.44.21:533][937]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.44.32:489][545]BlueprintLog: New page: Compile BP_Shallots
+[2024.02.23-10.44.32:528][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.23-10.44.33:001][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.44.33:064][563]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_Shallots" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_Shallots.uasset" SILENT=true
+[2024.02.23-10.44.33:067][563]LogSavePackage: Moving output files for package: /Game/Text/BP_Shallots
+[2024.02.23-10.44.33:067][563]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_ShallotsB70C69CF4E1F8B1112907089E905F7FD.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_Shallots.uasset'
+[2024.02.23-10.44.33:079][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 13.6 sec)
+[2024.02.23-10.44.33:079][563]AssetCheck: New page: Asset Save: BP_Shallots
+[2024.02.23-10.44.33:079][563]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_Shallots.BP_Shallots
+[2024.02.23-10.44.36:593][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shallots.BP_Shallots_C
+[2024.02.23-10.44.36:594][760]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shallots.BP_Shallots_C
+[2024.02.23-10.44.36:595][760]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shallots.BP_Shallots as actor: BP_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shallots_C_0
+[2024.02.23-10.44.36:595][760]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shallots.BP_Shallots as actor: BP_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shallots_C_0
+[2024.02.23-10.44.37:651][822]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shallots.BP_Shallots_C
+[2024.02.23-10.44.37:651][822]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Shallots.BP_Shallots_C
+[2024.02.23-10.44.37:653][822]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shallots.BP_Shallots as actor: BP_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shallots_C_1
+[2024.02.23-10.44.37:654][822]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Shallots.BP_Shallots as actor: BP_Shallots_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Shallots_C_1
+[2024.02.23-10.44.54:165][763]LogContentBrowser: Deferred new asset file creation: BP_Shallots1
+[2024.02.23-10.44.54:174][763]LogContentBrowser: Creating deferred item: BP_Shallots1
+[2024.02.23-10.44.54:193][764]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Shallots1).
+[2024.02.23-10.44.59:512][ 83]LogContentBrowser: Attempting asset rename: BP_Shallots1 -> BP_Sugar
+[2024.02.23-10.44.59:536][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.02.23-10.44.59:553][ 83]LogContentBrowser: End creating deferred item BP_Shallots1
+[2024.02.23-10.45.00:805][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Text/BP_Sugar.BP_Sugar
+[2024.02.23-10.45.00:806][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.45.00:806][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.45.02:025][210]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.45.11:560][733]BlueprintLog: New page: Compile BP_Sugar
+[2024.02.23-10.45.11:598][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.02.23-10.45.12:084][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.45.12:150][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Text/BP_Sugar" FILE="../../../../../../888Game/Shopping_Game/Content/Text/BP_Sugar.uasset" SILENT=true
+[2024.02.23-10.45.12:153][752]LogSavePackage: Moving output files for package: /Game/Text/BP_Sugar
+[2024.02.23-10.45.12:153][752]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_Sugar5D90FD314204F913AF486EB8B9F2C27A.tmp' to '../../../../../../888Game/Shopping_Game/Content/Text/BP_Sugar.uasset'
+[2024.02.23-10.45.12:165][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 13.7 sec)
+[2024.02.23-10.45.12:165][752]AssetCheck: New page: Asset Save: BP_Sugar
+[2024.02.23-10.45.12:165][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Text/BP_Sugar.BP_Sugar
+[2024.02.23-10.45.16:476][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Sugar.BP_Sugar_C
+[2024.02.23-10.45.16:476][993]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Sugar.BP_Sugar_C
+[2024.02.23-10.45.16:478][993]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Sugar.BP_Sugar as actor: BP_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Sugar_C_0
+[2024.02.23-10.45.16:478][993]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Sugar.BP_Sugar as actor: BP_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Sugar_C_0
+[2024.02.23-10.45.17:547][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Sugar.BP_Sugar_C
+[2024.02.23-10.45.17:547][ 55]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Text/BP_Sugar.BP_Sugar_C
+[2024.02.23-10.45.17:549][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Sugar.BP_Sugar as actor: BP_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Sugar_C_1
+[2024.02.23-10.45.17:550][ 55]LogActorFactory: Actor Factory spawned Blueprint /Game/Text/BP_Sugar.BP_Sugar as actor: BP_Sugar_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Sugar_C_1
+[2024.02.23-10.45.42:606][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Trap/BP_SwingBlade.BP_SwingBlade
+[2024.02.23-10.45.42:607][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.45.42:607][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.45.43:933][587]LogViewport: Scene viewport resized to 987x778, mode Windowed.
+[2024.02.23-10.45.56:100][232]BlueprintLog: New page: Compile BP_SwingBlade
+[2024.02.23-10.45.56:150][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.23-10.45.56:490][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.45.56:559][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Trap/BP_SwingBlade" FILE="../../../../../../888Game/Shopping_Game/Content/Trap/BP_SwingBlade.uasset" SILENT=true
+[2024.02.23-10.45.56:568][243]LogSavePackage: Moving output files for package: /Game/Trap/BP_SwingBlade
+[2024.02.23-10.45.56:568][243]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/BP_SwingBlade5AC6196040CBCAEEDE237AA011166406.tmp' to '../../../../../../888Game/Shopping_Game/Content/Trap/BP_SwingBlade.uasset'
+[2024.02.23-10.45.56:577][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 13.8 sec)
+[2024.02.23-10.45.56:579][243]AssetCheck: New page: Asset Save: BP_SwingBlade
+[2024.02.23-10.45.56:579][243]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Trap/BP_SwingBlade.BP_SwingBlade
+[2024.02.23-10.45.58:233][339]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.23-10.45.58:238][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-10.45.58:239][339]PIE: New page: PIE session: MarketMap (24 ก.พ. 2567 00:45:58)
+[2024.02.23-10.45.58:239][339]LogPlayLevel: Display: Creating online subsystem for client :Context_187
+[2024.02.23-10.45.58:241][339]LogOnline: OSS: Created online subsystem instance for: :Context_187
+[2024.02.23-10.45.58:252][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.45.58:269][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017165s)
+[2024.02.23-10.45.58:269][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.017212s)
+[2024.02.23-10.45.58:290][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.23-10.45.58:296][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.45.58:296][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.45.58:296][340]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.45.58:297][340]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2024.02.23-10.45.58:297][340]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.23-10.45.58:297][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-10.45.58:297][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-10.45.58:298][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-10.45.58:298][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-10.45.58:298][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-10.45.58:300][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-10.45.58:495][340]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.23-10.45.58:495][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-10.45.58:495][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-10.45.58:495][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-10.45.58:496][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=82
+[2024.02.23-10.45.58:496][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=82
+[2024.02.23-10.45.58:498][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=82
+[2024.02.23-10.45.58:498][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=82
+[2024.02.23-10.45.58:498][340]LogInit: FAudioDevice initialized with ID 82.
+[2024.02.23-10.45.58:498][340]LogAudio: Display: Audio Device (ID: 82) registered with world 'MarketMap'.
+[2024.02.23-10.45.58:498][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 82
+[2024.02.23-10.45.58:549][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.45.58:549][340]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.45.58:560][340]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.45.58
+[2024.02.23-10.45.58:560][340]LogWorld: Bringing up level for play took: 0.010615
+[2024.02.23-10.45.58:572][340]PIE: Server logged in
+[2024.02.23-10.45.58:575][340]PIE: Play in editor total start time 0.336 seconds.
+[2024.02.23-10.45.58:640][340]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.23-10.46.33:462][428]LogNet: Browse: /Game/MarketMap
+[2024.02.23-10.46.33:462][428]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.23-10.46.33:462][428]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.46.33:463][428]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.46.33:464][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.46.33:480][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-10.46.33:486][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.02.23-10.46.33:490][428]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.46.33:509][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018935s)
+[2024.02.23-10.46.33:509][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.019037s)
+[2024.02.23-10.46.33:509][428]LogAudio: Display: Audio Device (ID: 82) registered with world 'MarketMap'.
+[2024.02.23-10.46.33:509][428]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.46.33:509][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.46.33:510][428]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.46.33:510][428]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2024.02.23-10.46.33:510][428]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.46.33:519][428]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.46.33
+[2024.02.23-10.46.33:519][428]LogWorld: Bringing up level for play took: 0.008953
+[2024.02.23-10.46.33:527][428]LogLoad: Took 0.065203 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.23-10.47.31:792][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.47.31:793][918]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.47.31:793][918]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.23-10.47.31:798][918]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.47.31:800][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.47.31:806][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-10.47.31:815][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.47.31:837][918]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 82
+[2024.02.23-10.47.31:837][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.02.23-10.47.31:840][918]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=82
+[2024.02.23-10.47.31:855][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.02.23-10.47.31:906][919]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2024.02.23-10.47.33:412][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-10.47.33:473][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-10.47.33:514][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.23-10.47.33:574][  6]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-10.47.33:575][  6]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMapD42C0CB3485A881B3DA0BAB6B8DE576A.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-10.47.33:584][  6]LogFileHelpers: Saving map 'MarketMap' took 0.112
+[2024.02.23-10.47.33:593][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 13.9 sec)
+[2024.02.23-10.47.33:596][  6]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-10.47.33:596][  6]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-10.47.51:979][ 22]LogStaticMesh: Display: Building static mesh SM_Bld_House_InternalWall_Garage_DoorFrame_01...
+[2024.02.23-10.47.51:982][ 22]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01
+[2024.02.23-10.47.52:178][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01
+[2024.02.23-10.47.52:178][ 26]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01
+[2024.02.23-10.47.52:179][ 26]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_400
+[2024.02.23-10.47.53:306][ 92]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01
+[2024.02.23-10.47.53:306][ 92]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01
+[2024.02.23-10.47.53:307][ 92]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_InternalWall_Garage_DoorFrame_01.SM_Bld_House_InternalWall_Garage_DoorFrame_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_401
+[2024.02.23-10.48.14:188][299]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.23-10.48.14:195][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-10.48.14:195][299]PIE: New page: PIE session: MarketMap (24 ก.พ. 2567 00:48:14)
+[2024.02.23-10.48.14:195][299]LogPlayLevel: Display: Creating online subsystem for client :Context_188
+[2024.02.23-10.48.14:198][299]LogOnline: OSS: Created online subsystem instance for: :Context_188
+[2024.02.23-10.48.14:211][300]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.48.14:232][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020137s)
+[2024.02.23-10.48.14:232][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.020193s)
+[2024.02.23-10.48.14:255][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.23-10.48.14:261][300]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.48.14:261][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.48.14:261][300]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.48.14:262][300]LogPlayLevel: PIE: World Init took: (0.001196s)
+[2024.02.23-10.48.14:262][300]LogAudio: Display: Creating Audio Device:                 Id: 83, Scope: Unique, Realtime: True
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.23-10.48.14:262][300]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-10.48.14:262][300]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-10.48.14:263][300]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-10.48.14:263][300]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-10.48.14:263][300]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-10.48.14:265][300]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-10.48.14:488][300]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.23-10.48.14:488][300]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-10.48.14:488][300]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-10.48.14:488][300]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-10.48.14:489][300]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=83
+[2024.02.23-10.48.14:489][300]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=83
+[2024.02.23-10.48.14:491][300]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=83
+[2024.02.23-10.48.14:491][300]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=83
+[2024.02.23-10.48.14:491][300]LogInit: FAudioDevice initialized with ID 83.
+[2024.02.23-10.48.14:491][300]LogAudio: Display: Audio Device (ID: 83) registered with world 'MarketMap'.
+[2024.02.23-10.48.14:491][300]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 83
+[2024.02.23-10.48.14:542][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.48.14:542][300]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.48.14:553][300]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.48.14
+[2024.02.23-10.48.14:554][300]LogWorld: Bringing up level for play took: 0.011260
+[2024.02.23-10.48.14:564][300]PIE: Server logged in
+[2024.02.23-10.48.14:566][300]PIE: Play in editor total start time 0.373 seconds.
+[2024.02.23-10.48.14:634][300]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.23-10.48.46:921][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.48.46:921][233]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.48.46:922][233]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.23-10.48.46:930][233]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.48.46:932][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.48.46:937][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-10.48.46:947][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.48.46:968][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-10.48.46:968][233]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 83
+[2024.02.23-10.48.46:968][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.02.23-10.48.46:971][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=83
+[2024.02.23-10.48.46:986][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.02.23-10.48.47:040][234]LogPlayLevel: Display: Destroying online subsystem :Context_188
+[2024.02.23-10.48.54:006][638]Cmd: TRANSACTION UNDO
+[2024.02.23-10.48.54:006][638]LogEditorTransaction: Undo Scale Elements
+[2024.02.23-10.48.54:358][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.48.54:360][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.49.11:622][634]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.23-10.49.11:630][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-10.49.11:630][634]PIE: New page: PIE session: MarketMap (24 ก.พ. 2567 00:49:11)
+[2024.02.23-10.49.11:630][634]LogPlayLevel: Display: Creating online subsystem for client :Context_189
+[2024.02.23-10.49.11:632][634]LogOnline: OSS: Created online subsystem instance for: :Context_189
+[2024.02.23-10.49.11:647][635]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.49.11:665][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018895s)
+[2024.02.23-10.49.11:665][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.018959s)
+[2024.02.23-10.49.11:687][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.02.23-10.49.11:692][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-10.49.11:692][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-10.49.11:692][635]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-10.49.11:694][635]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2024.02.23-10.49.11:694][635]LogAudio: Display: Creating Audio Device:                 Id: 84, Scope: Unique, Realtime: True
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.23-10.49.11:694][635]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-10.49.11:694][635]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-10.49.11:694][635]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-10.49.11:694][635]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-10.49.11:694][635]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-10.49.11:696][635]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-10.49.11:889][635]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.23-10.49.11:889][635]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-10.49.11:889][635]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-10.49.11:889][635]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-10.49.11:890][635]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=84
+[2024.02.23-10.49.11:890][635]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=84
+[2024.02.23-10.49.11:893][635]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=84
+[2024.02.23-10.49.11:893][635]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=84
+[2024.02.23-10.49.11:893][635]LogInit: FAudioDevice initialized with ID 84.
+[2024.02.23-10.49.11:893][635]LogAudio: Display: Audio Device (ID: 84) registered with world 'MarketMap'.
+[2024.02.23-10.49.11:893][635]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 84
+[2024.02.23-10.49.11:937][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.49.11:937][635]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-10.49.11:948][635]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-17.49.11
+[2024.02.23-10.49.11:948][635]LogWorld: Bringing up level for play took: 0.011189
+[2024.02.23-10.49.11:960][635]PIE: Server logged in
+[2024.02.23-10.49.11:963][635]PIE: Play in editor total start time 0.333 seconds.
+[2024.02.23-10.49.12:034][635]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.23-10.49.41:852][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-10.49.41:852][420]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-10.49.41:852][420]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.23-10.49.41:859][420]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-10.49.41:861][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.49.41:866][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-10.49.41:875][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-10.49.41:896][420]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 84
+[2024.02.23-10.49.41:896][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.02.23-10.49.41:898][420]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=84
+[2024.02.23-10.49.41:917][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.02.23-10.49.41:970][421]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2024.02.23-10.50.01:893][586]Cmd: TRANSACTION UNDO
+[2024.02.23-10.50.01:894][586]LogEditorTransaction: Undo Move Elements
+[2024.02.23-10.50.02:230][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.50.02:231][586]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.50.36:823][578]LogShaderCompilers: Display: ================================================
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Total job queries 523, among them cache hits 92 (17.59%)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Tracking 427 distinct input hashes that result in 294 distinct outputs (68.85%)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: RAM used: 10.83 MiB of 1.60 GiB budget. Usage: 0.66%
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Shaders Compiled: 385
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Jobs assigned 388, completed 385 (99.23%)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Average time worker was idle: 235.50 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Time job spent in pending queue: average 8.64 s, longest 31.94 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Job execution time: average 1.41 s, max 9.63 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Job life time (pending + execution): average 10.12 s, max 32.85
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Shader code size: average 41.311 KiB, min 3.699 KiB, max 97.105 KiB
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 92.22 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Jobs were issued in 362 batches (only local compilation was used), average 1.07 jobs/batch
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Average processing rate: 4.17 jobs/sec
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Total thread time: 198.501 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Total thread preprocess time: 24.709 s
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Percentage time preprocessing: 12.45%
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Effective parallelization: 2.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   39 times, average 0.81 sec, max 3.52 sec, min 0.34 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 0.80 sec, max 2.31 sec, min 0.21 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 0.67 sec, max 0.98 sec, min 0.37 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled   18 times, average 0.63 sec, max 0.97 sec, min 0.35 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    9 times, average 0.59 sec, max 0.69 sec, min 0.51 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.09% of total time (compiled   63 times, average 0.51 sec, max 0.83 sec, min 0.22 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 15.95% of total time (compiled   39 times, average 0.81 sec, max 3.52 sec, min 0.34 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.29% of total time (compiled   45 times, average 0.45 sec, max 0.86 sec, min 0.29 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.72% of total time (compiled   33 times, average 0.46 sec, max 0.74 sec, min 0.23 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 5.70% of total time (compiled   18 times, average 0.63 sec, max 0.97 sec, min 0.35 sec)
+[2024.02.23-10.50.36:824][578]LogShaderCompilers: Display: ================================================
+[2024.02.23-10.52.59:562][871]LogStaticMesh: Display: Building static mesh SM_Env_Fence_Wood_Gate_01_Door...
+[2024.02.23-10.52.59:565][871]LogStaticMesh: Built static mesh [0.00s] /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door
+[2024.02.23-10.52.59:710][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door
+[2024.02.23-10.52.59:710][873]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door
+[2024.02.23-10.52.59:710][873]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_402
+[2024.02.23-10.53.00:856][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door
+[2024.02.23-10.53.00:856][940]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door
+[2024.02.23-10.53.00:858][940]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Environment/SM_Env_Fence_Wood_Gate_01_Door.SM_Env_Fence_Wood_Gate_01_Door as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_403
+[2024.02.23-10.53.15:611][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2024.02.23-10.53.15:611][787]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2024.02.23-10.53.15:611][787]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_404
+[2024.02.23-10.53.20:797][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2024.02.23-10.53.20:797][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame
+[2024.02.23-10.53.20:799][ 96]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_DoorFrame.SM_DoorFrame as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_405
+[2024.02.23-10.54.33:469][331]Cmd: DUPLICATE
+[2024.02.23-10.54.33:469][331]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.54.38:648][628]Cmd: DUPLICATE
+[2024.02.23-10.54.38:648][628]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.54.49:958][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.49:958][282]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.49:960][282]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_0
+[2024.02.23-10.54.49:961][282]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_0
+[2024.02.23-10.54.51:916][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.51:916][398]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.51:918][398]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_3
+[2024.02.23-10.54.51:919][398]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_3
+[2024.02.23-10.54.54:154][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.54:154][524]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.54:155][524]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_4
+[2024.02.23-10.54.54:156][524]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_4
+[2024.02.23-10.54.54:308][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.54:308][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.54:310][532]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_5
+[2024.02.23-10.54.54:311][532]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_5
+[2024.02.23-10.54.56:197][644]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.56:197][644]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Trap/BP_Deathblock.BP_Deathblock_C
+[2024.02.23-10.54.56:200][644]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_6
+[2024.02.23-10.54.56:201][644]LogActorFactory: Actor Factory spawned Blueprint /Game/Trap/BP_Deathblock.BP_Deathblock as actor: BP_Deathblock_C /Game/MarketMap.MarketMap:PersistentLevel.BP_Deathblock_C_6
+[2024.02.23-10.55.08:730][377]Cmd: DUPLICATE
+[2024.02.23-10.55.08:730][377]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.56.07:343][710]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19
+[2024.02.23-10.56.07:343][710]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19
+[2024.02.23-10.56.07:343][710]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_410
+[2024.02.23-10.56.09:368][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19
+[2024.02.23-10.56.09:368][830]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19
+[2024.02.23-10.56.09:370][830]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_House_19.SM_House_19 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_411
+[2024.02.23-10.56.43:430][812]Cmd: DUPLICATE
+[2024.02.23-10.56.43:431][812]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.56.48:204][ 90]Cmd: DUPLICATE
+[2024.02.23-10.56.48:204][ 90]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.56.55:143][490]Cmd: DUPLICATE
+[2024.02.23-10.56.55:143][490]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.57.00:271][782]Cmd: DUPLICATE
+[2024.02.23-10.57.00:271][782]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.57.08:195][228]Cmd: DUPLICATE
+[2024.02.23-10.57.08:195][228]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.15:142][762]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 16777 files in 18880 folders with total size 1107 MiB.
+[2024.02.23-10.59.17:526][896]Cmd: DUPLICATE
+[2024.02.23-10.59.17:526][896]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.26:381][416]Cmd: DUPLICATE
+[2024.02.23-10.59.26:381][416]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.27:974][506]Cmd: TRANSACTION UNDO
+[2024.02.23-10.59.27:974][506]LogEditorTransaction: Undo Duplicate Elements
+[2024.02.23-10.59.28:360][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.59.28:361][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.59.29:771][573]Cmd: DUPLICATE
+[2024.02.23-10.59.29:771][573]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.40:948][230]Cmd: DUPLICATE
+[2024.02.23-10.59.40:948][230]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.45:036][462]Cmd: DUPLICATE
+[2024.02.23-10.59.45:036][462]Cmd: ACTOR DUPLICATE
+[2024.02.23-10.59.51:831][851]Cmd: TRANSACTION UNDO
+[2024.02.23-10.59.51:831][851]LogEditorTransaction: Undo Move Elements
+[2024.02.23-10.59.52:157][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.59.52:159][851]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-10.59.54:265][966]Cmd: DUPLICATE
+[2024.02.23-10.59.54:265][966]Cmd: ACTOR DUPLICATE
+[2024.02.23-11.00.34:660][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-11.00.34:721][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-11.00.34:772][294]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.23-11.00.34:836][294]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-11.00.34:836][294]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap468672914AC3133838B6FDAC641FABFA.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-11.00.34:844][294]LogFileHelpers: Saving map 'MarketMap' took 0.123
+[2024.02.23-11.00.34:855][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 14.1 sec)
+[2024.02.23-11.00.34:858][294]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-11.00.34:858][294]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.23-11.01.00:602][773]Cmd: DELETE
+[2024.02.23-11.01.00:602][773]Cmd: ACTOR DELETE
+[2024.02.23-11.01.00:606][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-11.01.00:607][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-11.01.00:608][773]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-11.01.00:627][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.23-11.01.00:632][773]LogEditorActor: Deleted 3 Actors (0.030 secs)
+[2024.02.23-11.01.04:843][ 21]Cmd: DELETE
+[2024.02.23-11.01.04:843][ 21]Cmd: ACTOR DELETE
+[2024.02.23-11.01.04:847][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.02.23-11.01.04:865][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.23-11.01.04:869][ 21]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2024.02.23-11.01.12:971][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2
+[2024.02.23-11.01.12:971][492]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2
+[2024.02.23-11.01.12:972][492]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_433
+[2024.02.23-11.01.13:889][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2
+[2024.02.23-11.01.13:890][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2
+[2024.02.23-11.01.13:891][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_Garrage_2.SM_Garrage_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_434
+[2024.02.23-11.02.27:052][885]LogStaticMesh: Display: Building static mesh SM_House_9...
+[2024.02.23-11.02.27:091][885]LogStaticMesh: Built static mesh [0.04s] /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9
+[2024.02.23-11.02.27:287][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9
+[2024.02.23-11.02.27:287][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9
+[2024.02.23-11.02.27:287][892]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_435
+[2024.02.23-11.02.28:465][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9
+[2024.02.23-11.02.28:465][960]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9
+[2024.02.23-11.02.28:467][960]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/House/SM_House_9.SM_House_9 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_436
+[2024.02.23-11.02.33:526][235]LogMeshUtilities: Finished distance field build in 6.4s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 61% occupied, 1420 triangles, SM_House_9
+[2024.02.23-11.03.06:536][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1
+[2024.02.23-11.03.06:536][141]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1
+[2024.02.23-11.03.06:537][141]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_437
+[2024.02.23-11.03.07:746][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1
+[2024.02.23-11.03.07:746][212]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1
+[2024.02.23-11.03.07:748][212]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_1.SM_Shed_1 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_438
+[2024.02.23-11.03.53:797][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2
+[2024.02.23-11.03.53:797][870]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2
+[2024.02.23-11.03.53:798][870]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_439
+[2024.02.23-11.03.54:817][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2
+[2024.02.23-11.03.54:817][930]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2
+[2024.02.23-11.03.54:818][930]LogActorFactory: Actor Factory spawned StaticMesh /Game/SimPoly_Town/Models/Props/SM_Shed_2.SM_Shed_2 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_440
+[2024.02.23-11.04.37:096][371]Cmd: DUPLICATE
+[2024.02.23-11.04.37:096][371]Cmd: ACTOR DUPLICATE
+[2024.02.23-11.05.02:260][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02
+[2024.02.23-11.05.02:260][827]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02
+[2024.02.23-11.05.02:261][827]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_441
+[2024.02.23-11.05.04:416][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02
+[2024.02.23-11.05.04:416][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02
+[2024.02.23-11.05.04:418][955]LogActorFactory: Actor Factory spawned StaticMesh /Game/DreamscapeSeries/DreamscapeMeadows/Meshes/Props/SM_Fence_02.SM_Fence_02 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_442
+[2024.02.23-11.05.14:489][545]Cmd: DUPLICATE
+[2024.02.23-11.05.14:489][545]Cmd: ACTOR DUPLICATE
+[2024.02.23-11.05.18:290][765]Cmd: DUPLICATE
+[2024.02.23-11.05.18:290][765]Cmd: ACTOR DUPLICATE
+[2024.02.23-11.05.37:174][836]Cmd: TRANSACTION UNDO
+[2024.02.23-11.05.37:174][836]LogEditorTransaction: Undo Move Elements
+[2024.02.23-11.05.37:502][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-11.05.37:504][836]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.02.23-11.06.25:656][600]LogStaticMesh: Display: Building static mesh SM_Bld_House_Preset_01...
+[2024.02.23-11.06.25:682][600]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.25:768][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.25:768][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.25:769][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_445
+[2024.02.23-11.06.25:999][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.25:999][612]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.25:999][612]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_446
+[2024.02.23-11.06.28:026][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.28:026][732]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01
+[2024.02.23-11.06.28:028][732]LogActorFactory: Actor Factory spawned StaticMesh /Game/PolygonTown/Meshes/Buildings/SM_Bld_House_Preset_01.SM_Bld_House_Preset_01 as actor: StaticMeshActor /Game/MarketMap.MarketMap:PersistentLevel.StaticMeshActor_447
+[2024.02.23-11.06.30:029][846]LogMeshUtilities: Finished distance field build in 4.3s - 126x126x112 sparse distance field, 1.9Mb total, 0.0Mb always loaded, 61% occupied, 1028 triangles, SM_Bld_House_Preset_01
+[2024.02.23-11.07.10:395][205]Cmd: DUPLICATE
+[2024.02.23-11.07.10:395][205]Cmd: ACTOR DUPLICATE
+[2024.02.23-11.07.10:580][205]LogClass: Warning: Short type name "BP_SwingWood_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.23-11.07.10:644][205]LogClass: Warning: Short type name "BP_SwingWood_C_1" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.23-11.07.45:405][225]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.23-11.07.45:410][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.23-11.07.45:410][225]PIE: New page: PIE session: MarketMap (24 ก.พ. 2567 01:07:45)
+[2024.02.23-11.07.45:410][225]LogPlayLevel: Display: Creating online subsystem for client :Context_190
+[2024.02.23-11.07.45:413][225]LogOnline: OSS: Created online subsystem instance for: :Context_190
+[2024.02.23-11.07.45:424][226]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.23-11.07.45:444][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019852s)
+[2024.02.23-11.07.45:444][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.019902s)
+[2024.02.23-11.07.45:471][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.02.23-11.07.45:481][226]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.23-11.07.45:481][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.23-11.07.45:482][226]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.23-11.07.45:482][226]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2024.02.23-11.07.45:482][226]LogAudio: Display: Creating Audio Device:                 Id: 85, Scope: Unique, Realtime: True
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.23-11.07.45:482][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.23-11.07.45:482][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.23-11.07.45:483][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.23-11.07.45:483][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.23-11.07.45:483][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.23-11.07.45:485][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.23-11.07.45:671][226]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.23-11.07.45:671][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.23-11.07.45:671][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.23-11.07.45:671][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.23-11.07.45:672][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=85
+[2024.02.23-11.07.45:672][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=85
+[2024.02.23-11.07.45:674][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=85
+[2024.02.23-11.07.45:674][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=85
+[2024.02.23-11.07.45:674][226]LogInit: FAudioDevice initialized with ID 85.
+[2024.02.23-11.07.45:674][226]LogAudio: Display: Audio Device (ID: 85) registered with world 'MarketMap'.
+[2024.02.23-11.07.45:674][226]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 85
+[2024.02.23-11.07.45:727][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-11.07.45:728][226]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.23-11.07.45:742][226]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.23-18.07.45
+[2024.02.23-11.07.45:742][226]LogWorld: Bringing up level for play took: 0.014176
+[2024.02.23-11.07.45:754][226]PIE: Server logged in
+[2024.02.23-11.07.45:756][226]PIE: Play in editor total start time 0.346 seconds.
+[2024.02.23-11.07.45:827][226]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.23-11.17.04:050][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.23-11.17.04:050][669]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.23-11.17.04:051][669]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.23-11.17.04:070][669]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.23-11.17.04:072][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-11.17.04:079][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.23-11.17.04:087][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.23-11.17.04:108][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.23-11.17.04:109][669]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 85
+[2024.02.23-11.17.04:109][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.02.23-11.17.04:111][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=85
+[2024.02.23-11.17.04:128][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.02.23-11.17.04:166][670]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2024.02.23-11.19.53:225][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.02.23-11.19.53:229][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.23-11.19.53:296][434]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto4
+[2024.02.23-11.19.53:296][434]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap_Auto4C1B74D53413D91AF7DE284AB1D3EF564.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto4.umap'
+[2024.02.23-11.19.53:297][434]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto4.umap is in the /Temp path, will not scan.
+[2024.02.23-11.19.53:297][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.098
+[2024.02.23-11.19.53:297][434]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2024.02.23-11.29.20:394][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.23-11.29.20:454][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.23-11.29.20:503][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.23-11.29.20:569][321]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.23-11.29.20:569][321]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMapFC14A2A041BEE67C387BAFAC40729D9B.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.23-11.29.20:577][321]LogFileHelpers: Saving map 'MarketMap' took 0.124
+[2024.02.23-11.29.20:586][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 14.3 sec)
+[2024.02.23-11.29.20:588][321]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.23-11.29.20:588][321]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
