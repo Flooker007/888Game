@@ -1,7 +1,7 @@
 # VersionControl888Game
 - 1. 641310461 ณัฐนันท์ บัวสิน : Developer : https://github.com/Nuttanuncurry
 - 2. 641310462 ณัฐนันท์ สิงหาสาร : 2D Artist : https://github.com/Flooker007 
-- 3. 641310477 อรรถพันธ์ อรรถพูลทรัพย์ : 3D Artist & Game Designer : https://github.com/Atthapoolsab
+- 3. 641310477 อรรถพันธ์ อรรถพูลทรัพย์ : 3D Artist : https://github.com/Atthapoolsab
 
 # Concept
 เกมจ่ายตลาดมุมมอง Top-down ผู้เล่นจะได้รับภารกิจเดินซื้อของในตลาด ผู้เล่นจะต้องหลบ ฝุ่น ควัน และสิ่งกีดขวาง ซื้อของตามภารกิจและเอากลับมาส่งให้ได้
