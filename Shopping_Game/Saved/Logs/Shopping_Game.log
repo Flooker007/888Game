@@ -3075,3 +3075,1570 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.02.24-15.38.17:615][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 2.49 sec)
 [2024.02.24-15.38.17:615][847]AssetCheck: New page: Asset Save: MarketMap
 [2024.02.24-15.38.17:615][847]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.24-15.48.17:219][819]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:33.121 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17137 files in 19247 folders with total size 1124 MiB.
+[2024.02.24-15.48.17:806][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.24-15.48.17:807][820]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.021
+[2024.02.24-15.48.17:808][820]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TomYum] ([1] browsable assets)...
+[2024.02.24-15.48.17:808][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TomYum]
+[2024.02.24-15.48.17:808][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TomYum" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/UI/TomYum_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.24-15.48.17:819][820]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/TomYum_Auto4
+[2024.02.24-15.48.17:819][820]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/TomYum_Auto43C14BDAE4F60BE9C4F5D1584D75C8287.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/UI/TomYum_Auto4.uasset'
+[2024.02.24-15.48.17:820][820]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.02.24-15.52.51:370][254]LogViewport: Scene viewport resized to 1350x855, mode Windowed.
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: ================================================
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Total job queries 510, among them cache hits 37 (7.25%)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Tracking 468 distinct input hashes that result in 224 distinct outputs (47.86%)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: RAM used: 10.63 MiB of 1.60 GiB budget. Usage: 0.65%
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Shaders Compiled: 426
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Jobs assigned 430, completed 426 (99.07%)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Average time worker was idle: 21.91 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Time job spent in pending queue: average 10.14 s, longest 28.62 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Job execution time: average 2.43 s, max 6.13 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Job life time (pending + execution): average 12.66 s, max 29.03
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Shader code size: average 44.688 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 43.54 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Jobs were issued in 218 batches (only local compilation was used), average 1.97 jobs/batch
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Average processing rate: 9.78 jobs/sec
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Total thread time: 152.271 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Total thread preprocess time: 10.459 s
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Percentage time preprocessing: 6.87%
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Effective parallelization: 3.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.47 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.47 sec, max 1.05 sec, min 0.21 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   46 times, average 0.46 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                             FDebugViewModePS - 16.02% of total time (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.84% of total time (compiled   46 times, average 0.46 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-15.53.09:884][228]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.99% of total time (compiled   47 times, average 0.42 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-15.53.09:885][228]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.18% of total time (compiled   40 times, average 0.43 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-15.53.09:885][228]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.59% of total time (compiled   45 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-15.53.09:885][228]LogShaderCompilers: Display: ================================================
+[2024.02.24-15.53.10:335][232]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.02.24-15.53.10:335][232]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Win_C /Game/MarketMap.MarketMap:Win_C_18
+	Function /Game/UI/Win.Win_C:ExecuteUbergraph_Win:0091
+[2024.02.24-15.53.10:483][238]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.02.24-15.53.10:483][238]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Win_C /Game/MarketMap.MarketMap:Win_C_18
+	Function /Game/UI/Win.Win_C:ExecuteUbergraph_Win:0091
+[2024.02.24-15.53.16:984][871]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.02.24-15.53.16:984][871]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerController_ReturnValue
+	Win_C /Game/MarketMap.MarketMap:Win_C_18
+	Function /Game/UI/Win.Win_C:ExecuteUbergraph_Win:0091
+[2024.02.24-15.54.33:765][989]LogViewport: Scene viewport resized to 901x855, mode Windowed.
+[2024.02.24-15.54.44:041][117]LogViewport: Scene viewport resized to 897x855, mode Windowed.
+[2024.02.24-15.54.44:054][118]LogViewport: Scene viewport resized to 890x855, mode Windowed.
+[2024.02.24-15.54.44:076][119]LogViewport: Scene viewport resized to 864x855, mode Windowed.
+[2024.02.24-15.54.44:097][120]LogViewport: Scene viewport resized to 834x855, mode Windowed.
+[2024.02.24-15.54.44:116][121]LogViewport: Scene viewport resized to 781x855, mode Windowed.
+[2024.02.24-15.54.44:136][122]LogViewport: Scene viewport resized to 751x855, mode Windowed.
+[2024.02.24-15.54.44:155][123]LogViewport: Scene viewport resized to 716x855, mode Windowed.
+[2024.02.24-15.54.44:176][124]LogViewport: Scene viewport resized to 697x855, mode Windowed.
+[2024.02.24-15.54.44:195][125]LogViewport: Scene viewport resized to 684x855, mode Windowed.
+[2024.02.24-15.54.44:223][126]LogViewport: Scene viewport resized to 671x855, mode Windowed.
+[2024.02.24-15.54.44:244][127]LogViewport: Scene viewport resized to 659x855, mode Windowed.
+[2024.02.24-15.54.44:265][128]LogViewport: Scene viewport resized to 650x855, mode Windowed.
+[2024.02.24-15.54.44:283][129]LogViewport: Scene viewport resized to 645x855, mode Windowed.
+[2024.02.24-15.54.44:302][130]LogViewport: Scene viewport resized to 632x855, mode Windowed.
+[2024.02.24-15.54.44:320][131]LogViewport: Scene viewport resized to 626x855, mode Windowed.
+[2024.02.24-15.54.44:340][132]LogViewport: Scene viewport resized to 622x855, mode Windowed.
+[2024.02.24-15.54.44:358][133]LogViewport: Scene viewport resized to 621x855, mode Windowed.
+[2024.02.24-15.54.44:377][134]LogViewport: Scene viewport resized to 616x855, mode Windowed.
+[2024.02.24-15.54.44:393][135]LogViewport: Scene viewport resized to 607x855, mode Windowed.
+[2024.02.24-15.54.44:411][136]LogViewport: Scene viewport resized to 596x855, mode Windowed.
+[2024.02.24-15.54.44:430][137]LogViewport: Scene viewport resized to 591x855, mode Windowed.
+[2024.02.24-15.54.44:448][138]LogViewport: Scene viewport resized to 586x855, mode Windowed.
+[2024.02.24-15.54.44:468][139]LogViewport: Scene viewport resized to 583x855, mode Windowed.
+[2024.02.24-15.54.44:637][158]LogViewport: Scene viewport resized to 587x855, mode Windowed.
+[2024.02.24-15.54.44:650][159]LogViewport: Scene viewport resized to 595x855, mode Windowed.
+[2024.02.24-15.54.44:670][160]LogViewport: Scene viewport resized to 632x855, mode Windowed.
+[2024.02.24-15.54.44:687][161]LogViewport: Scene viewport resized to 669x855, mode Windowed.
+[2024.02.24-15.54.44:705][162]LogViewport: Scene viewport resized to 706x855, mode Windowed.
+[2024.02.24-15.54.44:724][163]LogViewport: Scene viewport resized to 744x855, mode Windowed.
+[2024.02.24-15.54.44:741][164]LogViewport: Scene viewport resized to 796x855, mode Windowed.
+[2024.02.24-15.54.44:759][165]LogViewport: Scene viewport resized to 831x855, mode Windowed.
+[2024.02.24-15.54.44:777][166]LogViewport: Scene viewport resized to 863x855, mode Windowed.
+[2024.02.24-15.54.44:795][167]LogViewport: Scene viewport resized to 894x855, mode Windowed.
+[2024.02.24-15.54.44:814][168]LogViewport: Scene viewport resized to 901x855, mode Windowed.
+[2024.02.24-15.54.44:833][169]LogViewport: Scene viewport resized to 908x855, mode Windowed.
+[2024.02.24-15.54.44:855][170]LogViewport: Scene viewport resized to 912x855, mode Windowed.
+[2024.02.24-15.54.44:873][171]LogViewport: Scene viewport resized to 917x855, mode Windowed.
+[2024.02.24-15.54.44:892][172]LogViewport: Scene viewport resized to 927x855, mode Windowed.
+[2024.02.24-15.54.44:910][173]LogViewport: Scene viewport resized to 934x855, mode Windowed.
+[2024.02.24-15.54.44:928][174]LogViewport: Scene viewport resized to 946x855, mode Windowed.
+[2024.02.24-15.54.44:948][175]LogViewport: Scene viewport resized to 962x855, mode Windowed.
+[2024.02.24-15.54.44:968][176]LogViewport: Scene viewport resized to 975x855, mode Windowed.
+[2024.02.24-15.54.44:987][177]LogViewport: Scene viewport resized to 986x855, mode Windowed.
+[2024.02.24-15.54.45:005][178]LogViewport: Scene viewport resized to 990x855, mode Windowed.
+[2024.02.24-15.54.45:024][179]LogViewport: Scene viewport resized to 991x855, mode Windowed.
+[2024.02.24-15.54.45:043][180]LogViewport: Scene viewport resized to 995x855, mode Windowed.
+[2024.02.24-15.54.45:079][183]LogViewport: Scene viewport resized to 997x855, mode Windowed.
+[2024.02.24-15.54.59:496][676]Cmd: TRANSACTION UNDO
+[2024.02.24-15.54.59:496][676]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.55.05:974][336]Cmd: TRANSACTION UNDO
+[2024.02.24-15.55.05:974][336]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.55.27:614][730]Cmd: TRANSACTION UNDO
+[2024.02.24-15.55.27:614][730]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.55.32:561][207]Cmd: TRANSACTION UNDO
+[2024.02.24-15.55.32:561][207]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.55.37:097][594]Cmd: TRANSACTION UNDO
+[2024.02.24-15.55.37:097][594]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.55.44:594][381]Cmd: TRANSACTION UNDO
+[2024.02.24-15.55.44:594][381]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.22:992][ 82]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.22:992][ 82]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.23:016][ 82]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.24:020][144]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.24:020][144]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.24:046][144]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.24:689][206]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.24:689][206]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.24:713][206]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.25:365][268]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.25:365][268]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.25:389][268]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.25:877][314]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.25:877][314]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.25:903][314]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.27:342][468]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.27:342][468]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.27:365][468]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.38:237][600]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.38:237][600]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.38:260][600]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.38:880][624]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.38:880][624]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.38:907][624]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.49:538][752]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.49:538][752]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.49:562][752]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.50:278][783]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.50:278][783]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.50:303][783]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.56:606][395]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.56:606][395]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.56.56:633][395]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.56.57:919][491]Cmd: TRANSACTION UNDO
+[2024.02.24-15.56.57:919][491]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.57.07:803][508]Cmd: TRANSACTION UNDO
+[2024.02.24-15.57.07:803][508]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.57.07:830][508]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.57.22:712][ 21]Cmd: TRANSACTION UNDO
+[2024.02.24-15.57.22:712][ 21]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.57.22:739][ 21]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.57.31:566][850]Cmd: TRANSACTION UNDO
+[2024.02.24-15.57.31:567][850]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.57.31:591][850]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.57.34:514][ 98]Cmd: TRANSACTION UNDO
+[2024.02.24-15.57.34:514][ 98]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.58.07:070][439]Cmd: TRANSACTION UNDO
+[2024.02.24-15.58.07:070][439]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.58.07:094][439]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.58.07:552][448]Cmd: TRANSACTION UNDO
+[2024.02.24-15.58.07:552][448]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.58.07:575][448]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.58.08:954][581]Cmd: TRANSACTION UNDO
+[2024.02.24-15.58.08:954][581]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.58.08:981][581]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-15.58.49:482][692]Cmd: TRANSACTION UNDO
+[2024.02.24-15.58.49:482][692]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-15.58.49:507][692]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.06:582][ 21]Cmd: TRANSACTION UNDO
+[2024.02.24-16.00.06:582][ 21]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-16.00.06:606][ 21]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.07:208][ 42]Cmd: TRANSACTION UNDO
+[2024.02.24-16.00.07:208][ 42]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-16.00.07:244][ 42]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.19:562][294]Cmd: TRANSACTION UNDO
+[2024.02.24-16.00.19:562][294]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-16.00.19:588][294]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.22:297][485]LogEditorViewport: Clicking Background
+[2024.02.24-16.00.25:528][833]Cmd: TRANSACTION UNDO
+[2024.02.24-16.00.25:528][833]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-16.00.25:552][833]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.29:975][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.24-16.00.30:035][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.24-16.00.30:076][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.02.24-16.00.30:084][265]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.00.30:185][265]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.24-16.00.30:185][265]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap3A557AE54C80B7603512EABB4DEFD1AC.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.24-16.00.30:193][265]LogFileHelpers: Saving map 'MarketMap' took 0.159
+[2024.02.24-16.00.30:203][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 227 ms (total: 2.71 sec)
+[2024.02.24-16.00.30:206][265]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.24-16.00.30:206][265]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.24-16.00.37:140][ 71]LogViewport: Scene viewport resized to 1350x855, mode Windowed.
+[2024.02.24-16.01.07:265][656]LogContentBrowser: Deferred new asset file creation: M_Ground_Grass1
+[2024.02.24-16.01.07:275][656]LogContentBrowser: Creating deferred item: M_Ground_Grass1
+[2024.02.24-16.01.07:291][657]LogContentBrowser: Renaming the item being created (Deferred Item: M_Ground_Grass1).
+[2024.02.24-16.01.10:947][982]LogContentBrowser: Attempting asset rename: M_Ground_Grass1 -> Grass2
+[2024.02.24-16.01.10:955][982]LogContentBrowser: End creating deferred item M_Ground_Grass1
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Total job queries 543, among them cache hits 52 (9.58%)
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Tracking 488 distinct input hashes that result in 239 distinct outputs (48.98%)
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: RAM used: 11.09 MiB of 1.60 GiB budget. Usage: 0.68%
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Shaders Compiled: 438
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Jobs assigned 441, completed 438 (99.32%)
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Average time worker was idle: 29.38 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Time job spent in pending queue: average 9.89 s, longest 28.62 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Job execution time: average 2.38 s, max 6.13 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Job life time (pending + execution): average 12.33 s, max 29.03
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Shader code size: average 44.332 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.11 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Jobs were issued in 229 batches (only local compilation was used), average 1.93 jobs/batch
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Average processing rate: 9.71 jobs/sec
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Total thread time: 155.337 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Total thread preprocess time: 10.722 s
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Percentage time preprocessing: 6.90%
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Effective parallelization: 3.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-16.01.11:437][ 14]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.47 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.47 sec, max 1.05 sec, min 0.21 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   47 times, average 0.45 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.71% of total time (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.75% of total time (compiled   47 times, average 0.45 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.96% of total time (compiled   48 times, average 0.42 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.96% of total time (compiled   40 times, average 0.43 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.40% of total time (compiled   45 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-16.01.11:438][ 14]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.01.20:262][864]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.02.24-16.01.29:457][805]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/Grass2.Grass2
+[2024.02.24-16.01.29:478][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.01.29:478][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.01.29:762][805]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.01.29:762][805]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.01.29:762][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.01.29:762][805]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.01.29:778][805]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.01.30:000][807]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.04.52:614][944]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.04.52:614][944]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.04.52:614][944]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.04.52:614][944]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Total job queries 587, among them cache hits 72 (12.27%)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Tracking 508 distinct input hashes that result in 249 distinct outputs (49.02%)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: RAM used: 11.49 MiB of 1.60 GiB budget. Usage: 0.70%
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Shaders Compiled: 458
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Jobs assigned 461, completed 458 (99.35%)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Average time worker was idle: 30.56 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Time job spent in pending queue: average 9.48 s, longest 28.62 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Job execution time: average 2.29 s, max 6.13 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Job life time (pending + execution): average 11.84 s, max 29.03
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Shader code size: average 43.898 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 47.85 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Jobs were issued in 249 batches (only local compilation was used), average 1.85 jobs/batch
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Average processing rate: 9.57 jobs/sec
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Total thread time: 161.981 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Total thread preprocess time: 11.492 s
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Percentage time preprocessing: 7.09%
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Effective parallelization: 3.39 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.47 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.47 sec, max 1.05 sec, min 0.21 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   56 times, average 0.44 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.20% of total time (compiled   56 times, average 0.44 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.06% of total time (compiled   46 times, average 0.53 sec, max 1.01 sec, min 0.24 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.20% of total time (compiled   57 times, average 0.40 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.51% of total time (compiled   40 times, average 0.43 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display:                                             FDebugViewModeVS - 9.02% of total time (compiled   45 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-16.04.53:081][961]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.04.53:098][962]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.04.53:098][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.04.53:098][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.04.53:098][962]MaterialEditorStats: Shader Count: 1
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.04.53:302][974]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.04.53:360][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.04.53:369][977]LogMaterial: Warning: [AssetLog] D:\Program File\Epic Game\UE_5.3\Engine\Content\Functions\MaterialLayerFunctions\MatLayerBlend_SeparateNormalandColorClamps.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Displacement'
+
+[2024.02.24-16.04.54:425][ 46]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.04.54:425][ 46]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.04.54:425][ 46]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.04.54:425][ 46]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.04.54:537][ 48]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.01:204][562]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.01:204][562]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(11)
+[2024.02.24-16.05.01:204][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.01:204][562]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.02.24-16.05.01:204][562]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.01:446][574]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.05.01:446][574]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(11)
+[2024.02.24-16.05.01:446][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.01:446][574]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.02.24-16.05.01:446][574]MaterialEditorStats: Shader Count: 1
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(11)
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: LWC Promote usages (Est.): 1
+[2024.02.24-16.05.01:646][586]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.02:986][676]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.02:986][676]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.02:987][676]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.02:987][676]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.03:097][678]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.03:098][678]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.03:098][678]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.03:098][678]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.03:098][678]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.03:098][678]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.07:361][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.07:361][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.07:361][ 14]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.07:361][ 14]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.07:382][ 15]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.12:843][407]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.12:843][407]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.12:843][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.12:843][407]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.12:928][408]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.21:363][996]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.21:363][996]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.21:363][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.21:363][996]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.21:450][997]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.05.24:048][164]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.24:048][164]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.24:048][164]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.24:048][164]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.24:140][165]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.05.35:903][964]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.35:903][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.35:903][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.35:903][964]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.35:991][965]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.05.52:827][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.52:827][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.52:827][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.52:827][ 91]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.05.52:916][ 92]MaterialEditorStats: Base pass shader: 241 instructions
+[2024.02.24-16.05.52:917][ 92]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.05.52:917][ 92]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.24-16.05.52:917][ 92]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2024.02.24-16.05.52:917][ 92]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.52:917][ 92]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.05.59:635][534]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.05.59:635][534]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.05.59:635][534]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.05.59:635][534]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.06.00:222][561]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.00:222][561]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.06.00:222][561]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.00:222][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.00:222][561]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.00:310][566]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.06.02:390][713]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.06.02:390][713]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.02:390][713]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.02:390][713]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.06.02:433][715]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.06.02:434][715]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.02:434][715]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.06.02:434][715]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.02:434][715]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.02:434][715]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.06.09:568][167]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.06.09:568][167]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.09:568][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.09:568][167]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.09:694][169]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.06.18:799][756]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.06.18:799][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.18:799][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.18:799][756]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.18:840][758]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.06.35:964][885]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.06.35:964][885]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.35:964][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.35:964][885]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.06.35:987][886]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.07.44:029][497]LogMaterialEditor: Applying material Grass2
+[2024.02.24-16.07.44:172][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.02.24-16.07.44:921][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.24-16.07.44:960][497]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.07.44:960][497]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.44:960][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.44:960][497]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.07.44:984][498]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.07.44:985][498]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.07.44:985][498]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.07.44:985][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.44:985][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.44:985][498]MaterialEditorStats: Shader Count: 6
+[2024.02.24-16.07.50:565][864]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.07.50:565][864]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.50:565][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.50:565][864]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.07.51:006][885]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.07.51:006][885]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.51:006][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.51:006][885]MaterialEditorStats: Shader Count: 1
+[2024.02.24-16.07.51:106][890]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.07.51:106][890]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.07.51:106][890]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.51:106][890]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.51:106][890]MaterialEditorStats: Shader Count: 3
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.51:216][896]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.07.53:249][ 29]LogMaterialEditor: Applying material Grass2
+[2024.02.24-16.07.53:325][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Total job queries 727, among them cache hits 182 (25.03%)
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Tracking 535 distinct input hashes that result in 256 distinct outputs (47.85%)
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: RAM used: 12.05 MiB of 1.60 GiB budget. Usage: 0.74%
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Shaders Compiled: 485
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Jobs assigned 489, completed 485 (99.18%)
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Average time worker was idle: 30.03 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Time job spent in pending queue: average 8.94 s, longest 28.62 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 6.13 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Job life time (pending + execution): average 11.21 s, max 29.03
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Shader code size: average 43.408 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 52.05 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Jobs were issued in 277 batches (only local compilation was used), average 1.77 jobs/batch
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Average processing rate: 9.32 jobs/sec
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Total thread time: 169.652 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Total thread preprocess time: 12.292 s
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Percentage time preprocessing: 7.25%
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Effective parallelization: 3.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-16.07.53:548][ 29]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   47 times, average 0.52 sec, max 1.01 sec, min 0.19 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.47 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.47 sec, max 1.05 sec, min 0.21 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    4 times, average 0.44 sec, max 0.98 sec, min 0.20 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.86% of total time (compiled   63 times, average 0.43 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.96% of total time (compiled   64 times, average 0.40 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.49% of total time (compiled   47 times, average 0.52 sec, max 1.01 sec, min 0.19 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.03% of total time (compiled   40 times, average 0.43 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.73% of total time (compiled   46 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-16.07.53:549][ 29]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.07.53:968][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.24-16.07.54:007][ 29]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.07.54:007][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.54:007][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.54:007][ 29]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.07.54:031][ 30]MaterialEditorStats: Shader Count: 6
+[2024.02.24-16.08.18:974][155]LogViewport: Scene viewport resized to 997x855, mode Windowed.
+[2024.02.24-16.08.45:698][861]Cmd: TRANSACTION UNDO
+[2024.02.24-16.08.45:698][861]LogEditorTransaction: Undo Create Pin Link
+[2024.02.24-16.08.45:810][861]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.08.45:810][861]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.08.45:810][861]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.08.45:810][861]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.08.45:923][864]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.09.19:484][204]LogMaterialEditor: Applying material Grass2
+[2024.02.24-16.09.19:621][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.24-16.09.19:838][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.24-16.09.19:885][204]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.09.19:885][204]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.19:885][204]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.19:885][204]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.19:951][205]MaterialEditorStats: Shader Count: 6
+[2024.02.24-16.09.28:416][758]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.09.28:416][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.28:416][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.28:416][758]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.28:452][760]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.09.29:546][827]LogMaterialEditor: Applying material Grass2
+[2024.02.24-16.09.29:686][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.24-16.09.29:899][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.24-16.09.29:948][827]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.09.29:948][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.29:948][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.29:948][827]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.09.30:012][828]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.09.30:012][828]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.09.30:012][828]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.09.30:012][828]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.30:012][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.30:013][828]MaterialEditorStats: Shader Count: 6
+[2024.02.24-16.09.57:144][552]LogMaterialEditor: Saving and Compiling material Grass2
+[2024.02.24-16.09.57:147][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.24-16.09.59:197][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Grass2" FILE="../../../../../../888Game/Shopping_Game/Content/StarterContent/Materials/Grass2.uasset" SILENT=true
+[2024.02.24-16.09.59:202][552]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/Grass2
+[2024.02.24-16.09.59:202][552]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Grass2CF0A3D54452ABE5A50423886867577C7.tmp' to '../../../../../../888Game/Shopping_Game/Content/StarterContent/Materials/Grass2.uasset'
+[2024.02.24-16.09.59:209][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.06 sec (total: 4.78 sec)
+[2024.02.24-16.09.59:218][552]AssetCheck: New page: Asset Save: Grass2
+[2024.02.24-16.09.59:218][552]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/Grass2.Grass2
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Base pass shader with Surface Lightmap: 232 instructions
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.09.59:219][552]MaterialEditorStats: Shader Count: 25
+[2024.02.24-16.10.26:345][585]LogViewport: Scene viewport resized to 996x855, mode Windowed.
+[2024.02.24-16.10.26:359][586]LogViewport: Scene viewport resized to 989x855, mode Windowed.
+[2024.02.24-16.10.26:389][587]LogViewport: Scene viewport resized to 962x855, mode Windowed.
+[2024.02.24-16.10.26:409][588]LogViewport: Scene viewport resized to 938x855, mode Windowed.
+[2024.02.24-16.10.26:429][589]LogViewport: Scene viewport resized to 902x855, mode Windowed.
+[2024.02.24-16.10.26:449][590]LogViewport: Scene viewport resized to 887x855, mode Windowed.
+[2024.02.24-16.10.26:469][591]LogViewport: Scene viewport resized to 874x855, mode Windowed.
+[2024.02.24-16.10.26:488][592]LogViewport: Scene viewport resized to 871x855, mode Windowed.
+[2024.02.24-16.10.26:707][617]LogViewport: Scene viewport resized to 870x855, mode Windowed.
+[2024.02.24-16.10.26:728][618]LogViewport: Scene viewport resized to 859x855, mode Windowed.
+[2024.02.24-16.10.26:749][619]LogViewport: Scene viewport resized to 837x855, mode Windowed.
+[2024.02.24-16.10.26:768][620]LogViewport: Scene viewport resized to 820x855, mode Windowed.
+[2024.02.24-16.10.26:787][621]LogViewport: Scene viewport resized to 811x855, mode Windowed.
+[2024.02.24-16.10.26:808][622]LogViewport: Scene viewport resized to 807x855, mode Windowed.
+[2024.02.24-16.10.27:043][649]LogViewport: Scene viewport resized to 809x855, mode Windowed.
+[2024.02.24-16.10.27:074][652]LogViewport: Scene viewport resized to 810x855, mode Windowed.
+[2024.02.24-16.10.27:090][653]LogViewport: Scene viewport resized to 812x855, mode Windowed.
+[2024.02.24-16.10.46:497][520]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.02.24-16.10.46:543][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:545][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:548][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:552][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:556][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_6 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:560][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:563][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:566][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_9 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:569][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:572][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_11 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:576][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:579][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_13 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:583][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_14 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:586][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_15 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:589][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:592][520]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:683][522]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_18 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.187492 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.46:686][522]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/73/f4/c10d2bcdd28949150dab5b718ea44c4149aa.udd from '/Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_18'.
+[2024.02.24-16.10.46:686][522]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/73/f4/c10d2bcdd28949150dab5b718ea44c4149aa.udd from '/Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_20'.
+[2024.02.24-16.10.46:686][522]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/73/f4/c10d2bcdd28949150dab5b718ea44c4149aa.udd from '/Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_21'.
+[2024.02.24-16.10.49:747][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.02.24-16.10.49:749][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.24-16.10.49:752][767]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.10.49:754][767]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/a4/58/a1230afca647574d8e2393ca1622ab8a6457.udd from '/Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_3'.
+[2024.02.24-16.10.49:873][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MarketMap_Auto5
+[2024.02.24-16.10.49:874][767]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap_Auto5C66C5FB44F970E310B54508E81CB1ECF.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto5.umap'
+[2024.02.24-16.10.49:874][767]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/MarketMap_Auto5.umap is in the /Temp path, will not scan.
+[2024.02.24-16.10.49:875][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MarketMap' took 0.141
+[2024.02.24-16.10.49:875][767]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
+[2024.02.24-16.10.49:875][767]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TomYum] ([1] browsable assets)...
+[2024.02.24-16.10.49:875][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TomYum]
+[2024.02.24-16.10.49:875][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TomYum" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/UI/TomYum_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.24-16.10.49:887][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/TomYum_Auto5
+[2024.02.24-16.10.49:887][767]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/TomYum_Auto5BAC63BD14E429093A164CFB85DB50053.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/UI/TomYum_Auto5.uasset'
+[2024.02.24-16.10.49:888][767]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Grass_LayerInfo] ([1] browsable assets)...
+[2024.02.24-16.10.49:888][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/Grass_LayerInfo]
+[2024.02.24-16.10.49:888][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grass_LayerInfo" FILE="../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Grass_LayerInfo_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.24-16.10.49:888][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Grass_LayerInfo_Auto5
+[2024.02.24-16.10.49:888][767]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Grass_LayerInfo_Auto50662856547807AC178097087A27A21A1.tmp' to '../../../../../../888Game/Shopping_Game/Saved/Autosaves/Game/Grass_LayerInfo_Auto5.uasset'
+[2024.02.24-16.10.49:889][767]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.02.24-16.11.28:822][792]LogViewport: Scene viewport resized to 1350x855, mode Windowed.
+[2024.02.24-16.11.34:453][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.11.35:239][404]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.11.35:239][404]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-16.11.35:239][404]LogShaderCompilers: Display: Total job queries 830, among them cache hits 260 (31.33%)
+[2024.02.24-16.11.35:239][404]LogShaderCompilers: Display: Tracking 563 distinct input hashes that result in 272 distinct outputs (48.31%)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: RAM used: 12.71 MiB of 1.60 GiB budget. Usage: 0.78%
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Shaders Compiled: 513
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Jobs assigned 516, completed 513 (99.42%)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Average time worker was idle: 30.25 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Time job spent in pending queue: average 8.51 s, longest 28.62 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Job execution time: average 2.09 s, max 6.13 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Job life time (pending + execution): average 10.65 s, max 29.03
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Shader code size: average 43.324 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 55.29 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Jobs were issued in 304 batches (only local compilation was used), average 1.70 jobs/batch
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Average processing rate: 9.28 jobs/sec
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Total thread time: 176.768 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Total thread preprocess time: 13.075 s
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Percentage time preprocessing: 7.40%
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Effective parallelization: 3.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   48 times, average 0.52 sec, max 1.01 sec, min 0.17 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    5 times, average 0.44 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 0.43 sec, max 1.05 sec, min 0.21 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   64 times, average 0.42 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.35% of total time (compiled   64 times, average 0.42 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.51% of total time (compiled   65 times, average 0.39 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                             FDebugViewModePS - 14.01% of total time (compiled   48 times, average 0.52 sec, max 1.01 sec, min 0.17 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.79% of total time (compiled   41 times, average 0.42 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display:                                             FDebugViewModeVS - 8.49% of total time (compiled   47 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-16.11.35:240][404]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.11.35:672][431]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.11.41:211][866]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.24-16.11.41:211][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.11.41:211][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.11.41:211][866]MaterialEditorStats: Shader Count: 0
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.11.41:270][868]MaterialEditorStats: Shader Count: 4
+[2024.02.24-16.11.42:717][956]LogMaterialEditor: Applying material Grass2
+[2024.02.24-16.11.42:860][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.02.24-16.11.43:050][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.02.24-16.11.43:079][956]MaterialEditorStats: Texture samplers: 2/16
+[2024.02.24-16.11.43:079][956]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.11.43:079][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.11.43:079][956]MaterialEditorStats: Shader Count: 2
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.11.43:565][967]MaterialEditorStats: Shader Count: 6
+[2024.02.24-16.11.43:673][975]LogMaterialEditor: Saving and Compiling material Grass2
+[2024.02.24-16.11.43:675][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.24-16.11.45:546][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/Grass2" FILE="../../../../../../888Game/Shopping_Game/Content/StarterContent/Materials/Grass2.uasset" SILENT=true
+[2024.02.24-16.11.45:550][975]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/Grass2
+[2024.02.24-16.11.45:551][975]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Grass214EBB20E411D4CE6145B48B5856D393B.tmp' to '../../../../../../888Game/Shopping_Game/Content/StarterContent/Materials/Grass2.uasset'
+[2024.02.24-16.11.45:560][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.88 sec (total: 6.66 sec)
+[2024.02.24-16.11.45:561][975]AssetCheck: New page: Asset Save: Grass2
+[2024.02.24-16.11.45:561][975]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StarterContent/Materials/Grass2.Grass2
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Base pass shader with Surface Lightmap: 232 instructions
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Texture samplers: 5/16
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.24-16.11.45:562][975]MaterialEditorStats: Shader Count: 25
+[2024.02.24-16.11.52:377][623]LogViewport: Scene viewport resized to 812x855, mode Windowed.
+[2024.02.24-16.12.16:545][477]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2024.02.24-16.12.22:108][963]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.22:111][963]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_35 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.25:463][247]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_38 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.27:399][428]Cmd: TRANSACTION UNDO
+[2024.02.24-16.12.27:399][428]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.02.24-16.12.27:405][428]MapCheck: Warning: Fixed up shared weightmap texture for layer Grass in component 'LandscapeComponent_13' (shares with 'LandscapeComponent_12') 
+[2024.02.24-16.12.27:437][428]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_35 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.27:438][428]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.31:187][764]LogViewport: Scene viewport resized to 819x855, mode Windowed.
+[2024.02.24-16.12.31:200][765]LogViewport: Scene viewport resized to 825x855, mode Windowed.
+[2024.02.24-16.12.31:224][766]LogViewport: Scene viewport resized to 845x855, mode Windowed.
+[2024.02.24-16.12.31:244][767]LogViewport: Scene viewport resized to 879x855, mode Windowed.
+[2024.02.24-16.12.31:263][768]LogViewport: Scene viewport resized to 903x855, mode Windowed.
+[2024.02.24-16.12.31:284][769]LogViewport: Scene viewport resized to 931x855, mode Windowed.
+[2024.02.24-16.12.31:303][770]LogViewport: Scene viewport resized to 963x855, mode Windowed.
+[2024.02.24-16.12.31:322][771]LogViewport: Scene viewport resized to 987x855, mode Windowed.
+[2024.02.24-16.12.31:342][772]LogViewport: Scene viewport resized to 1023x855, mode Windowed.
+[2024.02.24-16.12.31:360][773]LogViewport: Scene viewport resized to 1047x855, mode Windowed.
+[2024.02.24-16.12.31:381][774]LogViewport: Scene viewport resized to 1070x855, mode Windowed.
+[2024.02.24-16.12.31:401][775]LogViewport: Scene viewport resized to 1080x855, mode Windowed.
+[2024.02.24-16.12.31:420][776]LogViewport: Scene viewport resized to 1083x855, mode Windowed.
+[2024.02.24-16.12.32:773][930]LogViewport: Scene viewport resized to 1086x855, mode Windowed.
+[2024.02.24-16.12.32:786][931]LogViewport: Scene viewport resized to 1092x855, mode Windowed.
+[2024.02.24-16.12.32:814][932]LogViewport: Scene viewport resized to 1145x855, mode Windowed.
+[2024.02.24-16.12.32:833][933]LogViewport: Scene viewport resized to 1183x855, mode Windowed.
+[2024.02.24-16.12.32:867][934]LogViewport: Scene viewport resized to 1263x855, mode Windowed.
+[2024.02.24-16.12.32:889][935]LogViewport: Scene viewport resized to 1306x855, mode Windowed.
+[2024.02.24-16.12.32:910][936]LogViewport: Scene viewport resized to 1332x855, mode Windowed.
+[2024.02.24-16.12.32:931][937]LogViewport: Scene viewport resized to 1342x855, mode Windowed.
+[2024.02.24-16.12.32:951][938]LogViewport: Scene viewport resized to 1353x855, mode Windowed.
+[2024.02.24-16.12.32:971][939]LogViewport: Scene viewport resized to 1358x855, mode Windowed.
+[2024.02.24-16.12.48:004][478]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_40 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.12.51:712][780]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_42 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.13.09:837][415]LogViewport: Scene viewport resized to 1692x855, mode Windowed.
+[2024.02.24-16.13.35:892][271]Cmd: DUPLICATE
+[2024.02.24-16.13.35:892][271]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.13.55:346][252]Cmd: DUPLICATE
+[2024.02.24-16.13.55:346][252]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.14.01:979][972]Cmd: DUPLICATE
+[2024.02.24-16.14.01:979][972]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.14.05:388][317]Cmd: DUPLICATE
+[2024.02.24-16.14.05:388][317]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.14.14:604][264]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.24-16.14.14:612][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.24-16.14.14:612][264]PIE: New page: PIE session: MarketMap (25 ก.พ. 2567 06:14:14)
+[2024.02.24-16.14.14:613][264]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.02.24-16.14.14:616][264]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.24-16.14.14:622][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.14.14:656][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033239s)
+[2024.02.24-16.14.14:656][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.033287s)
+[2024.02.24-16.14.14:675][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.24-16.14.14:678][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.14.14:678][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.14.14:678][265]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.14.14:679][265]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2024.02.24-16.14.14:679][265]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.24-16.14.14:679][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.24-16.14.14:679][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.24-16.14.14:680][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.24-16.14.14:680][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.24-16.14.14:680][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.24-16.14.14:682][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.24-16.14.14:872][265]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.24-16.14.14:872][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.24-16.14.14:872][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.24-16.14.14:872][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.24-16.14.14:873][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.24-16.14.14:873][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.24-16.14.14:875][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.24-16.14.14:875][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.24-16.14.14:875][265]LogInit: FAudioDevice initialized with ID 15.
+[2024.02.24-16.14.14:875][265]LogAudio: Display: Audio Device (ID: 15) registered with world 'MarketMap'.
+[2024.02.24-16.14.14:875][265]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.24-16.14.14:924][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.14.14:924][265]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.14.14:938][265]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.14.14
+[2024.02.24-16.14.14:939][265]LogWorld: Bringing up level for play took: 0.014698
+[2024.02.24-16.14.14:951][265]PIE: Server logged in
+[2024.02.24-16.14.14:955][265]PIE: Play in editor total start time 0.343 seconds.
+[2024.02.24-16.14.15:035][265]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.24-16.14.42:882][743]LogNet: Browse: /Game/MarketMap
+[2024.02.24-16.14.42:882][743]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.24-16.14.42:882][743]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.14.42:883][743]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.14.42:886][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.14.42:937][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.14.42:946][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.02.24-16.14.42:949][743]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.14.42:975][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026561s)
+[2024.02.24-16.14.42:975][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.026620s)
+[2024.02.24-16.14.42:975][743]LogAudio: Display: Audio Device (ID: 15) registered with world 'MarketMap'.
+[2024.02.24-16.14.42:975][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.14.42:975][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.14.42:976][743]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.14.42:976][743]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2024.02.24-16.14.42:976][743]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.14.42:987][743]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.14.42
+[2024.02.24-16.14.42:987][743]LogWorld: Bringing up level for play took: 0.010829
+[2024.02.24-16.14.42:994][743]LogLoad: Took 0.111629 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.24-16.15.17:239][776]LogNet: Browse: /Game/MarketMap
+[2024.02.24-16.15.17:239][776]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.24-16.15.17:239][776]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.15.17:240][776]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.15.17:243][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.15.17:279][776]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.15.17:284][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.02.24-16.15.17:287][776]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.15.17:316][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028109s)
+[2024.02.24-16.15.17:316][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.028182s)
+[2024.02.24-16.15.17:316][776]LogAudio: Display: Audio Device (ID: 15) registered with world 'MarketMap'.
+[2024.02.24-16.15.17:316][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.15.17:316][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.15.17:316][776]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.15.17:317][776]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2024.02.24-16.15.17:317][776]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.15.17:327][776]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.15.17
+[2024.02.24-16.15.17:328][776]LogWorld: Bringing up level for play took: 0.010905
+[2024.02.24-16.15.17:335][776]LogLoad: Took 0.096074 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.24-16.15.18:955][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.15.18:955][913]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.15.18:956][913]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.24-16.15.18:974][913]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.15.18:976][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.15.18:980][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.24-16.15.18:987][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.15.19:003][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.02.24-16.15.19:003][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.24-16.15.19:005][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.24-16.15.19:019][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.02.24-16.15.19:051][914]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.24-16.15.45:609][691]Cmd: DUPLICATE
+[2024.02.24-16.15.45:609][691]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.15.52:966][502]Cmd: DUPLICATE
+[2024.02.24-16.15.52:967][502]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.16.20:644][553]Cmd: TRANSACTION UNDO
+[2024.02.24-16.16.20:644][553]LogEditorTransaction: Undo Rotate Elements
+[2024.02.24-16.16.26:637][105]Cmd: DUPLICATE
+[2024.02.24-16.16.26:637][105]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.16.33:547][836]Cmd: DUPLICATE
+[2024.02.24-16.16.33:547][836]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.16.38:783][371]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.24-16.16.38:789][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.24-16.16.38:790][371]PIE: New page: PIE session: MarketMap (25 ก.พ. 2567 06:16:38)
+[2024.02.24-16.16.38:790][371]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2024.02.24-16.16.38:792][371]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.02.24-16.16.38:799][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.16.38:829][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030490s)
+[2024.02.24-16.16.38:829][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.030533s)
+[2024.02.24-16.16.38:850][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.24-16.16.38:852][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.16.38:852][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.16.38:852][372]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.16.38:853][372]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2024.02.24-16.16.38:853][372]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.24-16.16.38:853][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.24-16.16.38:853][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.24-16.16.38:854][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.24-16.16.38:854][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.24-16.16.38:854][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.24-16.16.38:856][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.24-16.16.39:043][372]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.24-16.16.39:044][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.24-16.16.39:044][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.24-16.16.39:044][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.24-16.16.39:045][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.02.24-16.16.39:045][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.02.24-16.16.39:047][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.02.24-16.16.39:047][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.02.24-16.16.39:047][372]LogInit: FAudioDevice initialized with ID 16.
+[2024.02.24-16.16.39:047][372]LogAudio: Display: Audio Device (ID: 16) registered with world 'MarketMap'.
+[2024.02.24-16.16.39:047][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.24-16.16.39:097][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.16.39:097][372]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.16.39:112][372]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.16.39
+[2024.02.24-16.16.39:113][372]LogWorld: Bringing up level for play took: 0.015663
+[2024.02.24-16.16.39:124][372]PIE: Server logged in
+[2024.02.24-16.16.39:128][372]PIE: Play in editor total start time 0.339 seconds.
+[2024.02.24-16.16.39:204][372]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.24-16.16.39:984][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.16.39:984][430]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.16.39:985][430]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.24-16.16.40:001][430]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.16.40:004][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.16.40:006][430]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.24-16.16.40:012][430]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.16.40:031][430]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.16.40:031][430]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.02.24-16.16.40:031][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.24-16.16.40:033][430]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.02.24-16.16.40:047][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.24-16.16.40:080][431]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.02.24-16.16.54:881][ 34]Cmd: DUPLICATE
+[2024.02.24-16.16.54:881][ 34]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.17.20:328][784]LogViewport: Scene viewport resized to 1358x855, mode Windowed.
+[2024.02.24-16.17.29:862][805]Cmd: TRANSACTION UNDO
+[2024.02.24-16.17.29:862][805]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2024.02.24-16.17.29:888][805]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.17.38:073][469]LogViewport: Scene viewport resized to 1692x855, mode Windowed.
+[2024.02.24-16.17.41:446][786]Cmd: DUPLICATE
+[2024.02.24-16.17.41:446][786]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.17.41:469][786]LogClass: Warning: Short type name "BP_SwingWood_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.24-16.17.41:474][786]LogClass: Warning: Short type name "BP_SwingWood_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.24-16.17.58:031][537]Cmd: DUPLICATE
+[2024.02.24-16.17.58:031][537]Cmd: ACTOR DUPLICATE
+[2024.02.24-16.17.58:043][537]LogClass: Warning: Short type name "BP_SwingWood_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.24-16.17.58:048][537]LogClass: Warning: Short type name "BP_SwingWood_C_3" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2024.02.24-16.18.12:980][194]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:200]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.02.24-16.18.12:980][194]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:1]] deferred - dummy variable created
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2024.02.24-16.18.12:980][194]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-1.5]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.02.24-16.18.12:980][194]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.AOQuality:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.Streaming.PoolSize:1000]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.DetailMode:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2024.02.24-16.18.12:981][194]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.02.24-16.18.12:981][194]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.02.24-16.18.13:078][194]LogMaterial: Warning: [AssetLog] D:\Program File\Epic Game\UE_5.3\Engine\Content\Functions\MaterialLayerFunctions\MatLayerBlend_SeparateNormalandColorClamps.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Displacement'
+
+[2024.02.24-16.18.13:078][194]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.02.24-16.18.13:174][196]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.02.24-16.18.14:003][200]LogContentStreaming: Texture pool size now 1000 MB
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Total job queries 895, among them cache hits 282 (31.51%)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Tracking 607 distinct input hashes that result in 285 distinct outputs (46.95%)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: RAM used: 13.72 MiB of 1.60 GiB budget. Usage: 0.84%
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Shaders Compiled: 557
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Jobs assigned 559, completed 557 (99.64%)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Average time worker was idle: 31.09 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Time job spent in pending queue: average 7.88 s, longest 28.62 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Job execution time: average 1.95 s, max 6.13 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Job life time (pending + execution): average 9.87 s, max 29.03
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Shader code size: average 43.006 KiB, min 2.262 KiB, max 74.742 KiB
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 60.42 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Jobs were issued in 347 batches (only local compilation was used), average 1.61 jobs/batch
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Average processing rate: 9.22 jobs/sec
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Total thread time: 188.673 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Total thread preprocess time: 14.335 s
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Percentage time preprocessing: 7.60%
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Effective parallelization: 3.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   48 times, average 0.52 sec, max 1.01 sec, min 0.17 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   42 times, average 0.42 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    6 times, average 0.42 sec, max 1.03 sec, min 0.22 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   69 times, average 0.42 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.23% of total time (compiled   69 times, average 0.42 sec, max 0.66 sec, min 0.11 sec)
+[2024.02.24-16.18.16:916][423]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.56% of total time (compiled   70 times, average 0.39 sec, max 0.85 sec, min 0.18 sec)
+[2024.02.24-16.18.16:917][423]LogShaderCompilers: Display:                                             FDebugViewModePS - 13.12% of total time (compiled   48 times, average 0.52 sec, max 1.01 sec, min 0.17 sec)
+[2024.02.24-16.18.16:917][423]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.32% of total time (compiled   42 times, average 0.42 sec, max 0.85 sec, min 0.20 sec)
+[2024.02.24-16.18.16:917][423]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.95% of total time (compiled   47 times, average 0.32 sec, max 0.44 sec, min 0.11 sec)
+[2024.02.24-16.18.16:917][423]LogShaderCompilers: Display: ================================================
+[2024.02.24-16.18.24:117][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.24-16.18.24:169][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.24-16.18.24:211][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.24-16.18.24:218][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:223][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:224][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:225][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:227][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_42 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:236][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_7 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:245][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_40 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:247][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_34 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:248][795]LogTexture: Display: Building textures: /Game/MarketMap.MarketMap:PersistentLevel.Landscape_1.Weightmap_35 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.02.24-16.18.24:383][795]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.24-16.18.24:383][795]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap1A99FC964C6F7FA6CCB052827BB5D81A.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.24-16.18.24:391][795]LogFileHelpers: Saving map 'MarketMap' took 0.222
+[2024.02.24-16.18.24:399][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 281 ms (total: 6.94 sec)
+[2024.02.24-16.18.24:402][795]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.24-16.18.24:402][795]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
+[2024.02.24-16.18.25:723][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.24-16.18.26:540][889]LogSlate: Window 'Save Content' being destroyed
+[2024.02.24-16.18.26:566][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.24-16.18.26:622][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Earth_LayerInfo" FILE="../../../../../../888Game/Shopping_Game/Content/Earth_LayerInfo.uasset" SILENT=true
+[2024.02.24-16.18.26:623][889]LogSavePackage: Moving output files for package: /Game/Earth_LayerInfo
+[2024.02.24-16.18.26:623][889]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Earth_LayerInfoE3E2129C43332A87774978AFA85655BF.tmp' to '../../../../../../888Game/Shopping_Game/Content/Earth_LayerInfo.uasset'
+[2024.02.24-16.18.26:624][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Grass_LayerInfo" FILE="../../../../../../888Game/Shopping_Game/Content/Grass_LayerInfo.uasset" SILENT=true
+[2024.02.24-16.18.26:625][889]LogSavePackage: Moving output files for package: /Game/Grass_LayerInfo
+[2024.02.24-16.18.26:625][889]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/Grass_LayerInfoD8DE8A0241544A1AC1A81CB1541629AA.tmp' to '../../../../../../888Game/Shopping_Game/Content/Grass_LayerInfo.uasset'
+[2024.02.24-16.18.26:626][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TomYum" FILE="../../../../../../888Game/Shopping_Game/Content/UI/TomYum.uasset" SILENT=true
+[2024.02.24-16.18.26:677][889]LogSavePackage: Moving output files for package: /Game/UI/TomYum
+[2024.02.24-16.18.26:677][889]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/TomYum82FC7C11432ECDE8A8272796B8290C54.tmp' to '../../../../../../888Game/Shopping_Game/Content/UI/TomYum.uasset'
+[2024.02.24-16.18.26:687][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 7.06 sec)
+[2024.02.24-16.18.26:688][889]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.24-16.18.26:688][889]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Earth_LayerInfo.Earth_LayerInfo
+[2024.02.24-16.18.26:688][889]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/Grass_LayerInfo.Grass_LayerInfo
+[2024.02.24-16.18.26:688][889]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/TomYum.TomYum
+[2024.02.24-16.19.12:916][136]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.24-16.19.12:925][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.24-16.19.12:925][136]PIE: New page: PIE session: MarketMap (25 ก.พ. 2567 06:19:12)
+[2024.02.24-16.19.12:926][136]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2024.02.24-16.19.12:929][136]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.24-16.19.12:948][137]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.19.12:998][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048536s)
+[2024.02.24-16.19.12:998][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.048597s)
+[2024.02.24-16.19.13:017][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.24-16.19.13:019][137]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.19.13:019][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.19.13:020][137]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.19.13:020][137]LogPlayLevel: PIE: World Init took: (0.001701s)
+[2024.02.24-16.19.13:021][137]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.24-16.19.13:021][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.24-16.19.13:021][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.24-16.19.13:022][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.24-16.19.13:022][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.24-16.19.13:022][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.24-16.19.13:025][137]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.24-16.19.13:239][137]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.24-16.19.13:239][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.24-16.19.13:239][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.24-16.19.13:239][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.24-16.19.13:241][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.02.24-16.19.13:241][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.02.24-16.19.13:243][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.02.24-16.19.13:243][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.02.24-16.19.13:243][137]LogInit: FAudioDevice initialized with ID 17.
+[2024.02.24-16.19.13:243][137]LogAudio: Display: Audio Device (ID: 17) registered with world 'MarketMap'.
+[2024.02.24-16.19.13:243][137]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.24-16.19.13:296][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.19.13:297][137]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.19.13:317][137]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.19.13
+[2024.02.24-16.19.13:318][137]LogWorld: Bringing up level for play took: 0.020826
+[2024.02.24-16.19.13:331][137]PIE: Server logged in
+[2024.02.24-16.19.13:335][137]PIE: Play in editor total start time 0.411 seconds.
+[2024.02.24-16.19.13:363][137]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.24-16.19.21:365][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.19.21:365][312]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.19.21:366][312]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.24-16.19.21:393][312]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.19.21:397][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.19.21:404][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.24-16.19.21:415][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.19.21:446][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.02.24-16.19.21:446][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.24-16.19.21:449][312]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.02.24-16.19.21:478][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.02.24-16.19.21:562][313]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.02.24-16.19.32:415][612]LogViewport: Scene viewport resized to 1677x855, mode Windowed.
+[2024.02.24-16.19.32:448][613]LogViewport: Scene viewport resized to 1629x855, mode Windowed.
+[2024.02.24-16.19.32:568][614]LogViewport: Scene viewport resized to 1378x855, mode Windowed.
+[2024.02.24-16.19.32:602][615]LogViewport: Scene viewport resized to 1368x855, mode Windowed.
+[2024.02.24-16.19.32:687][618]LogViewport: Scene viewport resized to 1365x855, mode Windowed.
+[2024.02.24-16.19.32:732][619]LogViewport: Scene viewport resized to 1355x855, mode Windowed.
+[2024.02.24-16.19.37:569][746]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.02.24-16.19.37:569][746]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.02.24-16.19.37:569][746]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.02.24-16.19.37:569][746]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.02.24-16.19.37:570][746]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.02.24-16.19.37:570][746]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.02.24-16.19.37:671][747]LogContentStreaming: Texture pool size now 800 MB
+[2024.02.24-16.19.37:791][748]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.02.24-16.19.52:591][492]LogViewport: Scene viewport resized to 1361x855, mode Windowed.
+[2024.02.24-16.19.52:606][493]LogViewport: Scene viewport resized to 1380x855, mode Windowed.
+[2024.02.24-16.19.52:644][494]LogViewport: Scene viewport resized to 1468x855, mode Windowed.
+[2024.02.24-16.19.52:671][495]LogViewport: Scene viewport resized to 1509x855, mode Windowed.
+[2024.02.24-16.19.52:705][496]LogViewport: Scene viewport resized to 1521x855, mode Windowed.
+[2024.02.24-16.19.58:876][687]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.24-16.19.58:885][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.24-16.19.58:886][687]PIE: New page: PIE session: MarketMap (25 ก.พ. 2567 06:19:58)
+[2024.02.24-16.19.58:886][687]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.02.24-16.19.58:890][687]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.02.24-16.19.58:899][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.19.58:939][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038938s)
+[2024.02.24-16.19.58:939][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.038986s)
+[2024.02.24-16.19.58:958][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.02.24-16.19.58:960][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.19.58:960][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.19.58:961][688]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.19.58:961][688]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2024.02.24-16.19.58:961][688]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.24-16.19.58:961][688]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.24-16.19.58:961][688]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.24-16.19.58:962][688]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.24-16.19.58:962][688]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.24-16.19.58:962][688]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.24-16.19.58:964][688]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.24-16.19.59:173][688]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.02.24-16.19.59:173][688]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.24-16.19.59:173][688]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.24-16.19.59:173][688]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.24-16.19.59:174][688]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.02.24-16.19.59:174][688]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.02.24-16.19.59:177][688]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.02.24-16.19.59:177][688]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.02.24-16.19.59:177][688]LogInit: FAudioDevice initialized with ID 18.
+[2024.02.24-16.19.59:177][688]LogAudio: Display: Audio Device (ID: 18) registered with world 'MarketMap'.
+[2024.02.24-16.19.59:177][688]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.02.24-16.19.59:229][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.24-16.19.59:229][688]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.19.59:246][688]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.19.59
+[2024.02.24-16.19.59:247][688]LogWorld: Bringing up level for play took: 0.017753
+[2024.02.24-16.19.59:260][688]PIE: Server logged in
+[2024.02.24-16.19.59:264][688]PIE: Play in editor total start time 0.378 seconds.
+[2024.02.24-16.19.59:291][688]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.24-16.20.34:200][  5]LogNet: Browse: /Game/MarketMap
+[2024.02.24-16.20.34:201][  5]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.24-16.20.34:201][  5]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.20.34:204][  5]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.20.34:211][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.20.34:253][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.20.34:264][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.02.24-16.20.34:267][  5]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.20.34:305][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038174s)
+[2024.02.24-16.20.34:305][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.038250s)
+[2024.02.24-16.20.34:305][  5]LogAudio: Display: Audio Device (ID: 18) registered with world 'MarketMap'.
+[2024.02.24-16.20.34:305][  5]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.20.34:306][  5]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.20.34:306][  5]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.20.34:307][  5]LogPlayLevel: PIE: World Init took: (0.001810s)
+[2024.02.24-16.20.34:307][  5]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.20.34:327][  5]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.20.34
+[2024.02.24-16.20.34:327][  5]LogWorld: Bringing up level for play took: 0.019680
+[2024.02.24-16.20.34:336][  5]LogLoad: Took 0.134998 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.24-16.21.10:823][347]LogNet: Browse: /Game/MarketMap
+[2024.02.24-16.21.10:823][347]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.24-16.21.10:823][347]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.21.10:829][347]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.21.10:834][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.21.10:867][347]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.21.10:882][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.24-16.21.10:888][347]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.21.10:934][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045842s)
+[2024.02.24-16.21.10:934][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.045966s)
+[2024.02.24-16.21.10:934][347]LogAudio: Display: Audio Device (ID: 18) registered with world 'MarketMap'.
+[2024.02.24-16.21.10:934][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.21.10:934][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.21.10:934][347]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.21.10:935][347]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2024.02.24-16.21.10:935][347]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.21.10:957][347]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.21.10
+[2024.02.24-16.21.10:958][347]LogWorld: Bringing up level for play took: 0.022639
+[2024.02.24-16.21.10:968][347]LogLoad: Took 0.144405 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.24-16.22.41:391][719]LogNet: Browse: /Game/MarketMap
+[2024.02.24-16.22.41:392][719]LogLoad: LoadMap: /Game/MarketMap
+[2024.02.24-16.22.41:392][719]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.22.41:397][719]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.24-16.22.41:408][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.24-16.22.41:440][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.24-16.22.41:454][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.02.24-16.22.41:460][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.24-16.22.41:508][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048732s)
+[2024.02.24-16.22.41:509][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.048821s)
+[2024.02.24-16.22.41:509][719]LogAudio: Display: Audio Device (ID: 18) registered with world 'MarketMap'.
+[2024.02.24-16.22.41:509][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.24-16.22.41:509][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.24-16.22.41:510][719]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.24-16.22.41:510][719]LogPlayLevel: PIE: World Init took: (0.001803s)
+[2024.02.24-16.22.41:510][719]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.24-16.22.41:530][719]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 0) at 2024.02.24-23.22.41
+[2024.02.24-16.22.41:531][719]LogWorld: Bringing up level for play took: 0.020031
+[2024.02.24-16.22.41:541][719]LogLoad: Took 0.149011 seconds to LoadMap(/Game/UEDPIE_0_MarketMap)
+[2024.02.24-16.24.27:686][569]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.24-16.24.27:687][569]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.02.24-16.25.26:610][228]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2024.02.24-16.25.26:610][228]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.02.24-16.25.26:610][228]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.02.24-16.25.26:610][228]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.02.24-16.25.26:610][228]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2024.02.24-16.25.26:611][228]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.02.24-16.25.26:611][228]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.02.24-16.25.26:629][228]LogMaterial: Warning: [AssetLog] D:\Program File\Epic Game\UE_5.3\Engine\Content\Functions\MaterialLayerFunctions\MatLayerBlend_SeparateNormalandColorClamps.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Displacement'
+
+[2024.02.24-16.25.26:763][230]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2024.02.24-16.25.26:900][234]LogContentStreaming: Texture pool size now 600 MB
+[2024.02.24-16.25.27:438][296]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2024.02.24-16.25.27:438][296]LogConfig: Set CVar [[r.SkeletalMeshLODBias:2]]
+[2024.02.24-16.25.27:438][296]LogConfig: Set CVar [[r.ViewDistanceScale:0.4]]
+[2024.02.24-16.25.27:438][296]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2024.02.24-16.25.27:438][296]LogConfig: Set CVar [[r.FXAA.Quality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.TemporalAA.Quality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.LightFunctionQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.ShadowQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.MaxResolution:512]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:512]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.6]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.CapsuleShadows:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.DistanceFieldAO:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SSR.Quality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.MotionBlurQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.AmbientOcclusionLevels:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.DepthOfFieldQuality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.RenderTargetPoolMin:300]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:25.000]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.FastBlurThreshold:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Upscale.Quality:1]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Filter.SizeScale:0.6]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Tonemapper.Quality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Streaming.MipBias:16]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Streaming.Boost:0.3]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.MaxAnisotropy:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.Streaming.PoolSize:400]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.DetailMode:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SSS.Scale:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SSGI.Quality:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.125]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:8.0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:2.0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:16.0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:2.0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:16.0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:1]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[fx.Niagara.QualityLevel:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[foliage.DensityScale:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Set CVar [[grass.DensityScale:0]]
+[2024.02.24-16.25.27:439][296]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2024.02.24-16.25.27:456][296]LogMaterial: Warning: [AssetLog] D:\Program File\Epic Game\UE_5.3\Engine\Content\Functions\MaterialLayerFunctions\MatLayerBlend_SeparateNormalandColorClamps.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Missing function output 'Displacement'
+
+[2024.02.24-16.25.27:477][297]LogContentStreaming: Texture pool size now 400 MB
+[2024.02.24-16.25.29:448][501]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
