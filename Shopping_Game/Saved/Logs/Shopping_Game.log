@@ -3026,3 +3026,10 @@ LogInit: Object subsystem initialized
 [2024.02.26-17.47.52:592][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/InventorySystem/Widgets/MainWidget.MainWidget
 [2024.02.26-17.47.52:593][861]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/HP/Miniheart.Miniheart
 [2024.02.26-17.47.52:593][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Currency_Systems/UI/WB_BuyItemChili.WB_BuyItemChili
+[2024.02.26-17.49.30:393][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.26-17.49.30:450][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HP/HP_Bar" FILE="../../../../../../888Game/Shopping_Game/Content/HP/HP_Bar.uasset" SILENT=true
+[2024.02.26-17.49.30:452][228]LogSavePackage: Moving output files for package: /Game/HP/HP_Bar
+[2024.02.26-17.49.30:453][228]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/HP_BarA33CC5DC4256444BD8496198FA55189E.tmp' to '../../../../../../888Game/Shopping_Game/Content/HP/HP_Bar.uasset'
+[2024.02.26-17.49.30:460][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.90 sec)
+[2024.02.26-17.49.30:461][228]AssetCheck: New page: Asset Save: HP_Bar
+[2024.02.26-17.49.30:461][228]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/HP/HP_Bar.HP_Bar
