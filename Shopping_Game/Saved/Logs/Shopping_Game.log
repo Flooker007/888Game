@@ -3033,3 +3033,65 @@ LogInit: Object subsystem initialized
 [2024.02.26-17.49.30:460][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.90 sec)
 [2024.02.26-17.49.30:461][228]AssetCheck: New page: Asset Save: HP_Bar
 [2024.02.26-17.49.30:461][228]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/HP/HP_Bar.HP_Bar
+[2024.02.26-17.55.14:427][764]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.02.26-17.55.14:435][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.26-17.55.14:435][764]PIE: New page: PIE session: MarketMap (27 ก.พ. 2567 07:55:14)
+[2024.02.26-17.55.14:435][764]LogPlayLevel: Display: Creating online subsystem for client :Context_74
+[2024.02.26-17.55.14:437][764]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2024.02.26-17.55.14:455][765]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MarketMap
+[2024.02.26-17.55.14:491][765]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037263s)
+[2024.02.26-17.55.14:491][765]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MarketMap.MarketMap to /Game/UEDPIE_0_MarketMap.MarketMap (0.037321s)
+[2024.02.26-17.55.14:511][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.02.26-17.55.14:512][765]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.26-17.55.14:513][765]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.26-17.55.14:513][765]LogAIModule: Creating AISystem for world MarketMap
+[2024.02.26-17.55.14:514][765]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2024.02.26-17.55.14:514][765]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.02.26-17.55.14:514][765]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.26-17.55.14:514][765]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.26-17.55.14:514][765]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.26-17.55.14:514][765]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.26-17.55.14:514][765]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.26-17.55.14:516][765]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.26-17.55.14:699][765]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.02.26-17.55.14:700][765]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.26-17.55.14:700][765]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.26-17.55.14:700][765]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.26-17.55.14:700][765]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.02.26-17.55.14:700][765]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.02.26-17.55.14:702][765]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.02.26-17.55.14:702][765]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.02.26-17.55.14:702][765]LogInit: FAudioDevice initialized with ID 21.
+[2024.02.26-17.55.14:702][765]LogAudio: Display: Audio Device (ID: 21) registered with world 'MarketMap'.
+[2024.02.26-17.55.14:702][765]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.26-17.55.14:747][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-17.55.14:747][765]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.02.26-17.55.14:769][765]LogWorld: Bringing World /Game/UEDPIE_0_MarketMap.MarketMap up for play (max tick rate 60) at 2024.02.27-00.55.14
+[2024.02.26-17.55.14:771][765]LogWorld: Bringing up level for play took: 0.024850
+[2024.02.26-17.55.14:782][765]PIE: Server logged in
+[2024.02.26-17.55.14:784][765]PIE: Play in editor total start time 0.349 seconds.
+[2024.02.26-17.55.14:876][765]LogViewport: Scene viewport resized to 1912x980, mode Windowed.
+[2024.02.26-17.55.33:066][853]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.02.26-17.55.33:066][853]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.02.26-17.55.33:066][853]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2024.02.26-17.55.33:914][904]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.02.26-17.55.55:186][180]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] Thank You
+[2024.02.26-17.55.57:175][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.26-17.55.57:175][297]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MarketMap
+[2024.02.26-17.55.57:175][297]LogSlate: Window 'Shopping_Game Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.02.26-17.55.57:181][297]LogWorld: UWorld::CleanupWorld for MarketMap, bSessionEnded=true, bCleanupResources=true
+[2024.02.26-17.55.57:185][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-17.55.57:187][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.26-17.55.57:199][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.26-17.55.57:219][297]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.26-17.55.57:219][297]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.02.26-17.55.57:219][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.26-17.55.57:221][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.26-17.55.57:240][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.02.26-17.55.57:336][298]LogPlayLevel: Display: Destroying online subsystem :Context_74
