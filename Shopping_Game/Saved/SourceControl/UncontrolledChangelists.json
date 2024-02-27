@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/888Game/Shopping_Game/Content/Characters/Joke/Joke_Character.uasset",
+				"C:/Users/Admin/Documents/888Game/Shopping_Game/Content/Characters/Joke/lambert4.uasset",
+				"C:/Users/Admin/Documents/888Game/Shopping_Game/Content/Characters/Joke/UV_Joke.uasset",
+				"C:/Users/Admin/Documents/888Game/Shopping_Game/Content/MarketMap.umap",
 				"D:/888Game/Shopping_Game/Content/StarterContent/Audio/Collapse01.uasset",
 				"D:/888Game/Shopping_Game/Content/TopDown/Input/IMC_Default.uasset",
 				"D:/888Game/Shopping_Game/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
