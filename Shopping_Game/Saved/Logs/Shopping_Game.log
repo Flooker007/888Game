@@ -1388,3 +1388,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.27-03.35.36:577][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/InventorySystem/Blueprints/ItemClasses/Item_Chili.Item_Chili
 [2024.02.27-03.35.36:577][531]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/InventorySystem/Textures/ItemIcons/NewIcon/ChiliV_3.ChiliV_3
 [2024.02.27-03.36.13:486][815]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:35.102 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 18022 files in 20207 folders with total size 1164 MiB.
+[2024.02.27-03.39.51:186][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.02.27-03.39.52:037][867]LogSlate: Window 'Save Content' being destroyed
+[2024.02.27-03.39.52:061][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.27-03.39.52:121][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MarketMap" FILE="../../../../../../888Game/Shopping_Game/Content/MarketMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.27-03.39.52:155][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.27-03.39.52:300][867]LogSavePackage: Moving output files for package: /Game/MarketMap
+[2024.02.27-03.39.52:300][867]LogSavePackage: Moving '../../../../../../888Game/Shopping_Game/Saved/MarketMap0A16D44C4B819FA4D0C9C9BEED2E8A3C.tmp' to '../../../../../../888Game/Shopping_Game/Content/MarketMap.umap'
+[2024.02.27-03.39.52:310][867]LogFileHelpers: Saving map 'MarketMap' took 0.190
+[2024.02.27-03.39.52:321][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 350 ms)
+[2024.02.27-03.39.52:325][867]AssetCheck: New page: Asset Save: MarketMap
+[2024.02.27-03.39.52:325][867]LogContentValidation: Display: Validating /Script/Engine.World /Game/MarketMap.MarketMap
