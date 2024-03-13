@@ -38,7 +38,8 @@ Inventory
 
 # Location and Structures
 
-เดินจากบ้านเข้าตลาดสด 
+บ้าน
+ตลาดสด
 
 # Story and Plot
 - Cutscene ก่อนเริ่ม Game
