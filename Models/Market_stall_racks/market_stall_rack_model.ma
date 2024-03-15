@@ -1,6 +1,6 @@
 //Maya ASCII 2023 scene
 //Name: market_stall_rack_model.ma
-//Last modified: Fri, Mar 15, 2024 06:10:43 PM
+//Last modified: Fri, Mar 15, 2024 06:15:24 PM
 //Codeset: 1252
 requires maya "2023";
 requires -dataType "czLayerData" "bluePencil" "2.6.1";
@@ -13,20 +13,20 @@ fileInfo "product" "Maya 2023";
 fileInfo "version" "2023";
 fileInfo "cutIdentifier" "202211021031-847a9f9623";
 fileInfo "osv" "Windows 11 Home v2009 (Build: 22621)";
-fileInfo "UUID" "74E5D607-4E6C-84BD-4C8A-099DCFB1FC5E";
+fileInfo "UUID" "DE860136-49EB-F4CB-4E28-CE976582498C";
 fileInfo "license" "education";
 createNode transform -s -n "persp";
 	rename -uid "2D317378-413A-974A-1D85-BABDC4A3ECEE";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 19.217583646676051 15.777785616504268 37.419850847124849 ;
-	setAttr ".r" -type "double3" -6.4295899792485907 23.267650086542414 0 ;
+	setAttr ".t" -type "double3" 3.1189037000637612 15.83837772687798 45.961589527578894 ;
+	setAttr ".r" -type "double3" -10.029589979206136 -355.13234991340016 4.9876051619284746e-17 ;
 	setAttr ".rp" -type "double3" -5.1070259132757201e-15 -2.7478019859472624e-15 1.4210854715202004e-14 ;
 	setAttr ".rpt" -type "double3" 3.8132587989725309e-15 6.8969384167811492e-15 1.6221608497619488e-15 ;
 createNode camera -s -n "perspShape" -p "persp";
 	rename -uid "D724C581-4A8B-2A5D-AB80-C08B51714E46";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999979;
-	setAttr ".coi" 36.376052775132862;
+	setAttr ".coi" 51.962528424294888;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -111,7 +111,7 @@ createNode mesh -n "pCube9Shape" -p "pCube9";
 	setAttr -s 2 ".iog[0].og";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
-	setAttr ".pv" -type "double2" 0.72083340598921686 0.90737420669547064 ;
+	setAttr ".pv" -type "double2" 0.50563845038414001 0.48004711233079433 ;
 	setAttr ".uvst[0].uvsn" -type "string" "map1";
 	setAttr ".cuvs" -type "string" "map1";
 	setAttr ".dcc" -type "string" "Ambient+Diffuse";
